@@ -1,0 +1,1735 @@
+{
+  "version": 1,
+  "source": "FPMC C LORD 3/O Maritime English Handbook",
+  "chapters": [
+    {
+      "id": 0,
+      "title_en": "0. FPMC C LORD – Ship's Particulars Quick Reference",
+      "title_sc": "0. FPMC C LORD 船舶资料速查",
+      "title_tc": "0. FPMC C LORD 船舶資料速查",
+      "notes": [
+        {
+          "en": "Source: Ship's Particulars dated 19-Dec-2025. Figures may change after dry dock – always check the latest copy on the bridge before giving them to VTS, pilot or terminal.",
+          "sc": "来源：2025-12-19 版船舶资料表。坞修后数据可能变更——向 VTS、引航员或码头报告前，务必核对驾驶台最新版本。",
+          "tc": "來源：2025-12-19 版船舶資料表。塢修後數據可能變更——向 VTS、引水人或碼頭報告前，務必核對駕駛台最新版本。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "Name / Call sign: FPMC C LORD / A8XJ5 (Alfa Eight X-ray Juliett Five)",
+          "sc": "船名 / 呼号：FPMC C LORD / A8XJ5",
+          "tc": "船名 / 呼號：FPMC C LORD / A8XJ5"
+        },
+        {
+          "en": "IMO 9447574 · MMSI 636014909 · Flag: Liberia, Port of Registry: Monrovia",
+          "sc": "IMO 9447574 · MMSI 636014909 · 船旗：利比里亚，船籍港：蒙罗维亚",
+          "tc": "IMO 9447574 · MMSI 636014909 · 船旗：賴比瑞亞，船籍港：蒙羅維亞"
+        },
+        {
+          "en": "Type: Oil carrier (VLCC), ABS class. Built 2011, IHI Marine United, Kure, Japan",
+          "sc": "船型：油轮（VLCC），ABS 船级。2011 年日本吴市 IHI 联合造船建造",
+          "tc": "船型：油輪（VLCC），ABS 船級。2011 年日本吳市 IHI 聯合造船建造"
+        },
+        {
+          "en": "Operator: Formosa Plastics Marine Corp. · Charterer: Formosa Petrochemical Corp.",
+          "sc": "经营人：台塑海运 · 承租人：台塑石化",
+          "tc": "營運人：台塑航運 · 承租人：台塑石化"
+        },
+        {
+          "en": "LOA 333.00 m · LBP 324.00 m · Breadth 60.00 m · Depth 29.00 m",
+          "sc": "总长 333.00 米 · 垂线间长 324.00 米 · 型宽 60.00 米 · 型深 29.00 米",
+          "tc": "全長 333.00 公尺 · 垂標間長 324.00 公尺 · 船寬 60.00 公尺 · 船深 29.00 公尺"
+        },
+        {
+          "en": "Keel to mast 63.76 m → Air draft = 63.76 − draft",
+          "sc": "龙骨至桅顶 63.76 米 → 水面以上高度 = 63.76 − 吃水",
+          "tc": "龍骨至桅頂 63.76 公尺 → 水面以上高度 = 63.76 − 吃水"
+        },
+        {
+          "en": "GRT 159,869 · NRT 98,188 · Light ship 42,381 MT",
+          "sc": "总吨 159,869 · 净吨 98,188 · 空船重 42,381 公吨",
+          "tc": "總噸 159,869 · 淨噸 98,188 · 空船重 42,381 公噸"
+        },
+        {
+          "en": "Summer: draft 20.635 m · freeboard 8.419 m · DWT 301,861 MT · TPC 182.63",
+          "sc": "夏季：吃水 20.635 米 · 干舷 8.419 米 · 载重吨 301,861 · 每厘米吃水吨数 182.63",
+          "tc": "夏季：吃水 20.635 公尺 · 乾舷 8.419 公尺 · 載重噸 301,861 · 每公分吃水噸數 182.63"
+        },
+        {
+          "en": "Tropical: draft 21.064 m · DWT 309,701 MT · FWA 468 mm",
+          "sc": "热带：吃水 21.064 米 · 载重吨 309,701 · 淡水宽限 468 毫米",
+          "tc": "熱帶：吃水 21.064 公尺 · 載重噸 309,701 · 淡水寬限 468 公釐"
+        },
+        {
+          "en": "Freeboard = 29.00 − draft · SBT ballast draft F 7.00 m / A 10.50 m",
+          "sc": "干舷 = 29.00 − 吃水 · 专用压载舱压载吃水 首 7.00 米 / 尾 10.50 米",
+          "tc": "乾舷 = 29.00 − 吃水 · 專用壓艙水艙壓艙吃水 艏 7.00 公尺 / 艉 10.50 公尺"
+        },
+        {
+          "en": "Propeller immersion 100% at 10.20 m aft draft",
+          "sc": "螺旋桨 100% 浸没所需尾吃水 10.20 米",
+          "tc": "俥葉 100% 浸沒所需艉吃水 10.20 公尺"
+        },
+        {
+          "en": "Main engine: Wärtsilä 7RTA84T, MCR 27,160 kW / 74.0 rpm · Astern power 70% · Max 15 consecutive starts",
+          "sc": "主机：瓦锡兰 7RTA84T，最大持续功率 27,160 千瓦 / 74.0 转 · 倒车功率 70% · 最多连续启动 15 次",
+          "tc": "主機：瓦錫蘭 7RTA84T，最大連續出力 27,160 千瓦 / 74.0 轉 · 倒俥出力 70% · 最多連續啟動 15 次"
+        },
+        {
+          "en": "Propeller: 5 blades, solid, diameter 9.70 m, pitch 7.22 m",
+          "sc": "螺旋桨：5 叶整体式，直径 9.70 米，螺距 7.22 米",
+          "tc": "俥葉：5 葉整體式，直徑 9.70 公尺，螺距 7.22 公尺"
+        },
+        {
+          "en": "Bridge to bow 282.3 m · Bridge to stern 50.7 m · Bow to manifold 163.6 m · Stern to manifold 169.4 m",
+          "sc": "驾驶台至船首 282.3 米 · 至船尾 50.7 米 · 船首至总管 163.6 米 · 船尾至总管 169.4 米",
+          "tc": "駕駛台至船艏 282.3 公尺 · 至船艉 50.7 公尺 · 船艏至集油管 163.6 公尺 · 船艉至集油管 169.4 公尺"
+        },
+        {
+          "en": "Manifolds: 4 sets each side, 20\"–16\" (500–400 mm), ANSI 150, spacing 3.00 m",
+          "sc": "货油总管：每舷 4 组，20\"–16\"（500–400 毫米），ANSI 150，间距 3.00 米",
+          "tc": "貨油集油管：每舷 4 組，20\"–16\"（500–400 公釐），ANSI 150，間距 3.00 公尺"
+        },
+        {
+          "en": "Manifold height above WL: 22.35 m (ballast) / 10.47 m (laden) · Ship side to manifold 4.60 m · Deck to manifold 2.05 m",
+          "sc": "总管离水面高度：22.35 米（压载）/ 10.47 米（满载）· 船舷至总管 4.60 米 · 甲板至总管 2.05 米",
+          "tc": "集油管離水面高度：22.35 公尺（壓艙）/ 10.47 公尺（滿載）· 船舷至集油管 4.60 公尺 · 甲板至集油管 2.05 公尺"
+        },
+        {
+          "en": "Max cargo loading rate 21,000 m³/h (132,086 bbl/h) with 3 connections",
+          "sc": "最大装货速率 21,000 立方米/小时（132,086 桶/小时），3 个接头",
+          "tc": "最大裝貨速率 21,000 立方公尺/小時（132,086 桶/小時），3 個接頭"
+        },
+        {
+          "en": "Cargo pumps 3 × 5,500 m³/h · Stripping pump 300 m³/h · 3 segregations · Tank cleaning pump 2,500 m³/h",
+          "sc": "货油泵 3 × 5,500 立方米/小时 · 扫舱泵 300 · 3 个隔离系统 · 洗舱泵 2,500",
+          "tc": "貨油泵 3 × 5,500 立方公尺/小時 · 收艙泵 300 · 3 個隔離系統 · 洗艙泵 2,500"
+        },
+        {
+          "en": "Cargo capacity 98%: 343,009 m³ (2,157,463 bbl) · SBT capacity 103,042.57 m³",
+          "sc": "98% 货舱舱容：343,009 立方米（2,157,463 桶）· 专用压载舱容 103,042.57 立方米",
+          "tc": "98% 貨艙艙容：343,009 立方公尺（2,157,463 桶）· 專用壓艙水艙容 103,042.57 立方公尺"
+        },
+        {
+          "en": "IGS: 2 × 11,900 m³/h · P/V valve +17.2 / −3.5 kPa · P/V breaker +20.7 / −6.9 kPa",
+          "sc": "惰气系统：2 × 11,900 立方米/小时 · 呼吸阀 +17.2 / −3.5 kPa · 真空压力断路器 +20.7 / −6.9 kPa",
+          "tc": "惰氣系統：2 × 11,900 立方公尺/小時 · 壓力真空閥 +17.2 / −3.5 kPa · 壓力真空斷路器 +20.7 / −6.9 kPa"
+        },
+        {
+          "en": "Bunker manifolds FO 8\" (200A) / MGO 4\" (100A) · Max bunker rate FO 500 m³/h, MGO 100 m³/h",
+          "sc": "加油接头：燃油 8\"（200A）/ 轻柴油 4\"（100A）· 最大加油速率：燃油 500、轻柴油 100 立方米/小时",
+          "tc": "加油接頭：燃油 8\"（200A）/ 輕柴油 4\"（100A）· 最大加油速率：燃油 500、輕柴油 100 立方公尺/小時"
+        },
+        {
+          "en": "F.O. tanks 7,657.71 m³ · MDO tanks 728.07 m³ · Lube oil tanks 319.73 m³ · Fresh water 757.7 m³",
+          "sc": "燃油舱 7,657.71 立方米 · 柴油舱 728.07 · 滑油舱 319.73 · 淡水舱 757.7",
+          "tc": "燃油艙 7,657.71 立方公尺 · 柴油艙 728.07 · 滑油艙 319.73 · 淡水艙 757.7"
+        },
+        {
+          "en": "Hose handling crane: SWL 20 MT, max outreach 7.7 m outboard",
+          "sc": "软管吊：安全工作负荷 20 公吨，舷外最大伸距 7.7 米",
+          "tc": "油管吊：安全工作負荷 20 公噸，舷外最大伸距 7.7 公尺"
+        },
+        {
+          "en": "Anchors: 2 windlasses, cable 111 mm, 14 shackles each side",
+          "sc": "锚：2 台起锚机，锚链直径 111 毫米，每舷 14 节",
+          "tc": "錨：2 台起錨機，錨鏈直徑 111 公釐，每舷 14 節"
+        },
+        {
+          "en": "Mooring: 20 wires 42 mm × 305 m (6×36 IWRC, MBL 119 t) + tails 85 mm × 11 m · SDMBL 110 t · winch brake 66 t",
+          "sc": "系泊：20 根 42 毫米 × 305 米钢丝缆（6×36 钢芯，破断 119 吨）+ 85 毫米 × 11 米尾缆 · 船舶设计最小破断力 110 吨 · 绞缆机刹车 66 吨",
+          "tc": "繫泊：20 根 42 公釐 × 305 公尺鋼索（6×36 鋼芯，破斷 119 噸）+ 85 公釐 × 11 公尺尾纜 · 船舶設計最小破斷力 110 噸 · 絞纜機剎車 66 噸"
+        },
+        {
+          "en": "Fire wires: 42 mm × 120 m × 2 sets (MBL 125.5 t)",
+          "sc": "消防拖缆：42 毫米 × 120 米 × 2 套（破断 125.5 吨）",
+          "tc": "消防拖纜：42 公釐 × 120 公尺 × 2 套（破斷 125.5 噸）"
+        },
+        {
+          "en": "SPM: 2 bow chain stoppers 350 t, tongue type, for 76 mm chain · Bow fairleads 450 × 600 mm",
+          "sc": "单点系泊：船首 2 个链式制链器 350 吨，舌式，适用 76 毫米链 · 船首导缆孔 450 × 600 毫米",
+          "tc": "單點繫泊：船艏 2 個鏈式制鏈器 350 噸，舌式，適用 76 公釐鏈 · 船艏導纜孔 450 × 600 公釐"
+        },
+        {
+          "en": "Emergency towing (ETA) fwd & aft: SWL 204 t",
+          "sc": "应急拖带装置（前后）：安全工作负荷 204 吨",
+          "tc": "緊急拖帶裝置（前後）：安全工作負荷 204 噸"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title_en": "1. VHF Basics & SMCP Message Markers",
+      "title_sc": "1. VHF 基本用语与 SMCP 信息标识",
+      "title_tc": "1. VHF 基本用語與 SMCP 訊息標識",
+      "notes": [
+        {
+          "en": "SMCP = IMO Standard Marine Communication Phrases. Use the message marker first, then the message.",
+          "sc": "SMCP = IMO 标准航海通信用语。先说信息标识，再说内容。",
+          "tc": "SMCP = IMO 標準航海通訊用語。先說訊息標識，再說內容。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "[Station called] this is [own ship], [call sign], over.",
+          "sc": "[被呼叫台] 这里是 [本船]，[呼号]，请回答。",
+          "tc": "[被呼叫台] 這裡是 [本船]，[呼號]，請回答。"
+        },
+        {
+          "en": "Good morning. This is FPMC C LORD, call sign Alfa Eight X-ray Juliett Five (A8XJ5).",
+          "sc": "早上好。这里是 FPMC C LORD，呼号 A8XJ5。",
+          "tc": "早安。這裡是 FPMC C LORD，呼號 A8XJ5。"
+        },
+        {
+          "en": "Please change to channel ___ (one-six / seven-two).",
+          "sc": "请转到 ___ 频道（16 / 72）。",
+          "tc": "請轉到 ___ 頻道（16 / 72）。"
+        },
+        {
+          "en": "Changing to channel ___.",
+          "sc": "正在转到 ___ 频道。",
+          "tc": "正在轉到 ___ 頻道。"
+        },
+        {
+          "en": "How do you read me?",
+          "sc": "你听我信号如何？",
+          "tc": "你聽我訊號如何？"
+        },
+        {
+          "en": "I read you five / I read you bad / with signal strength ___.",
+          "sc": "我听你信号良好（5级）/ 很差 / 信号强度 ___。",
+          "tc": "我聽你訊號良好（5級）/ 很差 / 訊號強度 ___。"
+        },
+        {
+          "en": "Say again. / Please say again your last message.",
+          "sc": "请重复。/ 请重复你上一条信息。",
+          "tc": "請重複。/ 請重複你上一則訊息。"
+        },
+        {
+          "en": "I say again ...",
+          "sc": "我重复……",
+          "tc": "我重複……"
+        },
+        {
+          "en": "Stand by on channel ___.",
+          "sc": "请在 ___ 频道守听。",
+          "tc": "請在 ___ 頻道守聽。"
+        },
+        {
+          "en": "Out. (end of conversation, no reply expected)",
+          "sc": "通话结束。",
+          "tc": "通話結束。"
+        },
+        {
+          "en": "Over. (I expect your reply)",
+          "sc": "请回答。",
+          "tc": "請回答。"
+        },
+        {
+          "en": "Correction ... (I made a mistake, correct version follows)",
+          "sc": "更正……",
+          "tc": "更正……"
+        },
+        {
+          "en": "INSTRUCTION – (from authority, e.g. VTS: you must follow)",
+          "sc": "指令——（主管机关发出，必须执行）",
+          "tc": "指令——（主管機關發出，必須執行）"
+        },
+        {
+          "en": "ADVICE – (recommendation)",
+          "sc": "建议——",
+          "tc": "建議——"
+        },
+        {
+          "en": "WARNING – (danger information)",
+          "sc": "警告——",
+          "tc": "警告——"
+        },
+        {
+          "en": "INFORMATION – (facts / observed situation)",
+          "sc": "信息——",
+          "tc": "資訊——"
+        },
+        {
+          "en": "QUESTION – (asking for information)",
+          "sc": "问题——",
+          "tc": "問題——"
+        },
+        {
+          "en": "ANSWER – (reply to a question)",
+          "sc": "回答——",
+          "tc": "回答——"
+        },
+        {
+          "en": "REQUEST – (asking for action / assistance)",
+          "sc": "请求——",
+          "tc": "請求——"
+        },
+        {
+          "en": "INTENTION – (what I am going to do)",
+          "sc": "意图——",
+          "tc": "意圖——"
+        },
+        {
+          "en": "Yes / No / Negative / Affirmative",
+          "sc": "是 / 不是 / 否定 / 肯定",
+          "tc": "是 / 不是 / 否定 / 肯定"
+        },
+        {
+          "en": "Roger. / Received, understood.",
+          "sc": "收到。/ 已收到，明白。",
+          "tc": "收到。/ 已收到，明白。"
+        },
+        {
+          "en": "Wilco (will comply).",
+          "sc": "照办。",
+          "tc": "照辦。"
+        },
+        {
+          "en": "I am not able to understand. Please use SMCP.",
+          "sc": "我听不懂，请使用标准航海用语。",
+          "tc": "我聽不懂，請使用標準航海用語。"
+        },
+        {
+          "en": "Mistake ... Correction ...",
+          "sc": "错误……更正……",
+          "tc": "錯誤……更正……"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title_en": "2. Numbers, Time, Position & Phonetic Alphabet",
+      "title_sc": "2. 数字、时间、船位与字母拼读",
+      "title_tc": "2. 數字、時間、船位與字母拼讀",
+      "notes": [
+        {
+          "en": "Numbers are spoken digit by digit: 150° = 'one-five-zero degrees'. 9 = 'niner', 3 = 'tree', 5 = 'fife' (radio pronunciation). Time is usually LT or UTC – always state which.",
+          "sc": "数字逐位读出：150° 读作 'one-five-zero degrees'。9 读 'niner'，3 读 'tree'，5 读 'fife'。时间要说明是当地时间 (LT) 还是协调世界时 (UTC)。",
+          "tc": "數字逐位讀出：150° 讀作 'one-five-zero degrees'。9 讀 'niner'，3 讀 'tree'，5 讀 'fife'。時間要說明是當地時間 (LT) 或世界協調時 (UTC)。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "A Alfa · B Bravo · C Charlie · D Delta · E Echo · F Foxtrot · G Golf · H Hotel · I India · J Juliett · K Kilo · L Lima · M Mike",
+          "sc": "字母拼读表（上半）",
+          "tc": "字母拼讀表（上半）"
+        },
+        {
+          "en": "N November · O Oscar · P Papa · Q Quebec · R Romeo · S Sierra · T Tango · U Uniform · V Victor · W Whiskey · X X-ray · Y Yankee · Z Zulu",
+          "sc": "字母拼读表（下半）",
+          "tc": "字母拼讀表（下半）"
+        },
+        {
+          "en": "Position: latitude zero-one degree one-five decimal two minutes North, longitude one-zero-three degrees four-five minutes East.",
+          "sc": "船位：北纬 01°15.2′，东经 103°45′。",
+          "tc": "船位：北緯 01°15.2′，東經 103°45′。"
+        },
+        {
+          "en": "Position: bearing two-seven-zero degrees from Raffles Lighthouse, distance two decimal five miles.",
+          "sc": "船位：在莱佛士灯塔方位 270°，距离 2.5 海里。",
+          "tc": "船位：在萊佛士燈塔方位 270°，距離 2.5 浬。"
+        },
+        {
+          "en": "My course is zero-four-five degrees, speed one-two knots.",
+          "sc": "我船航向 045°，航速 12 节。",
+          "tc": "本船航向 045°，航速 12 節。"
+        },
+        {
+          "en": "ETA at pilot station: one-four-three-zero hours local time.",
+          "sc": "预计到达引航站时间：当地时间 1430。",
+          "tc": "預計抵達引水站時間：當地時間 1430。"
+        },
+        {
+          "en": "(Ballast) My draft is seven decimal zero metres forward, one-zero decimal five metres aft.",
+          "sc": "（压载）我船吃水首 7.0 米，尾 10.5 米。",
+          "tc": "（壓艙）本船吃水艏 7.0 公尺，艉 10.5 公尺。"
+        },
+        {
+          "en": "(Laden) My draft is two-zero decimal six metres even keel.",
+          "sc": "（满载）我船平吃水 20.6 米。",
+          "tc": "（滿載）本船平吃水 20.6 公尺。"
+        },
+        {
+          "en": "Air draft is about five-five metres in ballast / four-three metres laden (keel to mast 63.76 m minus draft).",
+          "sc": "我船水面以上高度：压载约 55 米 / 满载约 43 米（龙骨至桅顶 63.76 米减吃水）。",
+          "tc": "本船水面以上高度：壓艙約 55 公尺 / 滿載約 43 公尺（龍骨至桅頂 63.76 公尺減吃水）。"
+        },
+        {
+          "en": "Length overall three-three-three metres, beam six-zero metres.",
+          "sc": "总长 333 米，型宽 60 米。",
+          "tc": "全長 333 公尺，船寬 60 公尺。"
+        },
+        {
+          "en": "Gross tonnage one-five-nine-eight-six-nine, deadweight three-zero-one-eight-six-one tonnes. I am a VLCC.",
+          "sc": "总吨 159,869，载重吨 301,861 吨。我船是 VLCC（超大型原油轮）。",
+          "tc": "總噸 159,869，載重噸 301,861 噸。本船是 VLCC（超大型油輪）。"
+        },
+        {
+          "en": "Last port: Mailiao, Taiwan. Next port: ____.",
+          "sc": "上一港：台湾麦寮。下一港：____。",
+          "tc": "上一港：台灣麥寮。下一港：____。"
+        },
+        {
+          "en": "Persons on board: two-three (23).",
+          "sc": "船上人数：23 人。",
+          "tc": "船上人數：23 人。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title_en": "3. Singapore Strait & Malacca Strait – STRAITREP / VTS Reporting",
+      "title_sc": "3. 新加坡海峡与马六甲海峡——STRAITREP / VTS 报告",
+      "title_tc": "3. 新加坡海峽與麻六甲海峽——STRAITREP / VTS 報告",
+      "notes": [
+        {
+          "en": "STRAITREP is the mandatory ship reporting system in the Straits of Malacca and Singapore. Singapore VTIS sectors commonly used: VTIS East (Ch 10), VTIS Central (Ch 14), VTIS West (Ch 74). Malaysian sectors are handled by Klang VTS and Johor VTS. Always verify reporting points and channels in the latest ALRS Vol.6, Guide to Port Entry and Notices to Mariners before the passage.",
+          "sc": "STRAITREP 是马六甲海峡和新加坡海峡的强制船舶报告系统。新加坡 VTIS 常用：东区 VTIS East（10 频道）、中区 VTIS Central（14 频道）、西区 VTIS West（74 频道）。马来西亚区段由巴生 VTS 与柔佛 VTS 负责。航行前务必以最新 ALRS 第 6 卷、进港指南及航海通告核对报告点与频道。",
+          "tc": "STRAITREP 是麻六甲海峽與新加坡海峽的強制船舶報告系統。新加坡 VTIS 常用：東區 VTIS East（10 頻道）、中區 VTIS Central（14 頻道）、西區 VTIS West（74 頻道）。馬來西亞區段由巴生 VTS 與柔佛 VTS 負責。航行前務必以最新 ALRS 第 6 卷、進港指南及航船布告核對報告點與頻道。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "VTIS East, VTIS East, this is FPMC C LORD, FPMC C LORD, over.",
+          "sc": "VTIS East，VTIS East，这里是 FPMC C LORD，请回答。",
+          "tc": "VTIS East，VTIS East，這裡是 FPMC C LORD，請回答。"
+        },
+        {
+          "en": "FPMC C LORD, VTIS East, go ahead / pass your message.",
+          "sc": "FPMC C LORD，这里是 VTIS East，请讲 / 请报告。",
+          "tc": "FPMC C LORD，這裡是 VTIS East，請講 / 請報告。"
+        },
+        {
+          "en": "This is my STRAITREP: Ship's name FPMC C LORD, call sign A8XJ5, IMO number 9447574.",
+          "sc": "这是我的 STRAITREP 报告：船名 FPMC C LORD，呼号 A8XJ5，IMO 编号 9447574。",
+          "tc": "這是我的 STRAITREP 報告：船名 FPMC C LORD，呼號 A8XJ5，IMO 編號 9447574。"
+        },
+        {
+          "en": "Position: ____. Time: ____ UTC. Course ___, speed ___ knots.",
+          "sc": "船位：____。时间：UTC ____。航向 ___，航速 ___ 节。",
+          "tc": "船位：____。時間：UTC ____。航向 ___，航速 ___ 節。"
+        },
+        {
+          "en": "I am crossing reporting line ____ / passing reporting point ____.",
+          "sc": "我船正穿越报告线 ____ / 通过报告点 ____。",
+          "tc": "本船正穿越報告線 ____ / 通過報告點 ____。"
+        },
+        {
+          "en": "Maximum draft ___ metres. Air draft ___ metres.",
+          "sc": "最大吃水 ___ 米。水面以上高度 ___ 米。",
+          "tc": "最大吃水 ___ 公尺。水面以上高度 ___ 公尺。"
+        },
+        {
+          "en": "Cargo: in ballast / loaded with ___ tonnes of crude oil (dangerous cargo: Yes, crude oil / MARPOL Annex I).",
+          "sc": "货物：压载 / 装有 ___ 吨原油（危险品：是，原油 / MARPOL 附则 I）。",
+          "tc": "貨物：壓艙 / 裝有 ___ 噸原油（危險品：是，原油 / MARPOL 附則 I）。"
+        },
+        {
+          "en": "Destination: Singapore anchorage for bunkers / Ras Tanura / Mailiao.",
+          "sc": "目的地：新加坡锚地加油 / 拉斯塔努拉 / 麦寮。",
+          "tc": "目的地：新加坡錨地加油 / 拉斯坦努拉 / 麥寮。"
+        },
+        {
+          "en": "No defects / deficiencies. All navigational equipment working properly.",
+          "sc": "无缺陷。所有航行设备工作正常。",
+          "tc": "無缺陷。所有航儀工作正常。"
+        },
+        {
+          "en": "Number of persons on board two-three, no pollution, no damage.",
+          "sc": "船上 23 人，无污染，无损坏。",
+          "tc": "船上 23 人，無污染，無損壞。"
+        },
+        {
+          "en": "FPMC C LORD, VTIS East. Report received. Monitor channel ___. Pay attention to traffic ___.",
+          "sc": "FPMC C LORD，这里是 VTIS East。报告已收到。请守听 ___ 频道，注意 ___ 的船舶动态。",
+          "tc": "FPMC C LORD，這裡是 VTIS East。報告已收到。請守聽 ___ 頻道，注意 ___ 的船舶動態。"
+        },
+        {
+          "en": "Noted. Will monitor channel ___. Thank you.",
+          "sc": "明白，将守听 ___ 频道。谢谢。",
+          "tc": "明白，將守聽 ___ 頻道。謝謝。"
+        },
+        {
+          "en": "WARNING: Vessel ___ crossing the TSS ahead of you / small craft in your vicinity.",
+          "sc": "警告：___ 船正在你前方横越分道通航区 / 你附近有小型船只。",
+          "tc": "警告：___ 船正在你前方橫越分道航行區 / 你附近有小型船隻。"
+        },
+        {
+          "en": "ADVICE: Reduce speed, keep to the starboard side of the traffic lane.",
+          "sc": "建议：减速，靠通航分道右侧航行。",
+          "tc": "建議：減速，靠航道右側航行。"
+        },
+        {
+          "en": "INSTRUCTION: Do not overtake in the precautionary area.",
+          "sc": "指令：警戒区内不得追越。",
+          "tc": "指令：警戒區內不得追越。"
+        },
+        {
+          "en": "Deep-draft vessels are advised to use the Deep Water Route.",
+          "sc": "建议深吃水船使用深水航路。",
+          "tc": "建議深吃水船使用深水航路。"
+        },
+        {
+          "en": "Under keel clearance – keep at least 3.5 m UKC in the Straits (check current regulations).",
+          "sc": "富余水深——海峡内至少保持 3.5 米（以现行规定为准）。",
+          "tc": "龍骨下餘裕水深——海峽內至少保持 3.5 公尺（以現行規定為準）。"
+        },
+        {
+          "en": "Request permission to enter Eastern Bunkering Anchorage ___ for bunkering.",
+          "sc": "请求进入东部加油锚地 ___ 加油。",
+          "tc": "請求進入東部加油錨地 ___ 加油。"
+        },
+        {
+          "en": "I will be leaving the VTS area at ___. Final report: ___.",
+          "sc": "我船将于 ___ 驶离 VTS 区域。最终报告：___。",
+          "tc": "本船將於 ___ 駛離 VTS 區域。最終報告：___。"
+        },
+        {
+          "en": "Piracy / armed robbery: Be vigilant, keep anti-piracy watch, report suspicious craft to VTIS/ReCAAP.",
+          "sc": "海盗/武装抢劫：保持警惕，加强防海盗值班，可疑船只向 VTIS/ReCAAP 报告。",
+          "tc": "海盜/武裝搶劫：保持警覺，加強防海盜當值，可疑船隻向 VTIS/ReCAAP 報告。"
+        },
+        {
+          "en": "Laden VLCC: I am a deep-draught vessel, draft two-zero decimal six metres, constrained by my draught.",
+          "sc": "满载 VLCC：我船为深吃水船，吃水 20.6 米，受吃水限制。",
+          "tc": "滿載 VLCC：本船為深吃水船，吃水 20.6 公尺，受吃水限制。"
+        },
+        {
+          "en": "I am showing signals for a vessel constrained by her draught (three all-round red lights / cylinder).",
+          "sc": "我船已显示限于吃水船号灯号型（三盏环照红灯 / 圆柱体）。",
+          "tc": "本船已顯示受吃水限制船舶號燈號標（三盞環照紅燈 / 圓柱體）。"
+        },
+        {
+          "en": "I will use the Deep Water Route. Under keel clearance at the shallowest point about ___ metres.",
+          "sc": "我船将走深水航路，最浅处富余水深约 ___ 米。",
+          "tc": "本船將走深水航路，最淺處龍骨下餘裕水深約 ___ 公尺。"
+        },
+        {
+          "en": "Request latest tidal information for ___ (e.g. One Fathom Bank, Phillip Channel).",
+          "sc": "请求 ___（如一浔滩、菲利普水道）最新潮汐资料。",
+          "tc": "請求 ___（如一噚灘、菲利普水道）最新潮汐資料。"
+        },
+        {
+          "en": "Ballast passage westbound: draft forward 7.0, aft 10.5 metres, in ballast, no cargo.",
+          "sc": "西行压载航次：首吃水 7.0 米，尾 10.5 米，压载，无货。",
+          "tc": "西行壓艙航次：艏吃水 7.0 公尺，艉 10.5 公尺，壓艙，無貨。"
+        },
+        {
+          "en": "Laden passage eastbound: ___ tonnes crude oil, maximum draft two-zero decimal six metres, destination Mailiao.",
+          "sc": "东行满载航次：原油 ___ 吨，最大吃水 20.6 米，目的港麦寮。",
+          "tc": "東行滿載航次：原油 ___ 噸，最大吃水 20.6 公尺，目的港麥寮。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title_en": "4. Ship-to-Ship Communication & COLREG Terms",
+      "title_sc": "4. 船与船之间的通信及避碰规则术语",
+      "title_tc": "4. 船對船通訊及避碰規則術語",
+      "notes": [
+        {
+          "en": "VHF agreements do not replace COLREGs. Identify the other ship clearly (name, position, AIS) before agreeing any manoeuvre. Ch 16 is for calling/distress; ship-to-ship working channels are commonly 06, 08, 72, 77 (or as advised by VTS).",
+          "sc": "VHF 协商不能取代避碰规则。商定操纵前须先确认对方船（船名、船位、AIS）。16 频道用于呼叫与遇险；船舶间工作频道常用 06、08、72、77（或按 VTS 指定）。",
+          "tc": "VHF 協商不能取代避碰規則。商定操船前須先確認對方船（船名、船位、AIS）。16 頻道用於呼叫與遇險；船對船工作頻道常用 06、08、72、77（或依 VTS 指定）。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "Vessel in position ___, on course ___, speed ___, this is FPMC C LORD.",
+          "sc": "位于 ___、航向 ___、航速 ___ 的船，这里是 FPMC C LORD。",
+          "tc": "位於 ___、航向 ___、航速 ___ 的船，這裡是 FPMC C LORD。"
+        },
+        {
+          "en": "Vessel on my port bow, distance two miles, bearing three-two-zero, please identify.",
+          "sc": "在我左舷首方向、距离 2 海里、方位 320 的船，请表明身份。",
+          "tc": "在我左舷艏方向、距離 2 浬、方位 320 的船，請表明身分。"
+        },
+        {
+          "en": "What are your intentions?",
+          "sc": "你船的意图是什么？",
+          "tc": "貴船的意圖是什麼？"
+        },
+        {
+          "en": "My intention is to alter course to starboard.",
+          "sc": "我船意图向右转向。",
+          "tc": "本船意圖向右轉向。"
+        },
+        {
+          "en": "I am altering course to starboard / port.",
+          "sc": "我船正在向右 / 向左转向。",
+          "tc": "本船正在向右 / 向左轉向。"
+        },
+        {
+          "en": "I will pass you port to port (red to red).",
+          "sc": "我将与你左舷对左舷通过（红对红）。",
+          "tc": "我將與你左舷對左舷通過（紅對紅）。"
+        },
+        {
+          "en": "Request green to green (starboard to starboard) passing.",
+          "sc": "请求右舷对右舷通过（绿对绿）。",
+          "tc": "請求右舷對右舷通過（綠對綠）。"
+        },
+        {
+          "en": "I will keep clear of you. / Please keep clear of me.",
+          "sc": "我船将避让你船。/ 请你船避让我船。",
+          "tc": "本船將避讓貴船。/ 請貴船避讓本船。"
+        },
+        {
+          "en": "I am the stand-on vessel; I will maintain course and speed.",
+          "sc": "我船是直航船，将保持航向航速。",
+          "tc": "本船是直航船，將保持航向航速。"
+        },
+        {
+          "en": "You are the give-way vessel. Please take early and substantial action.",
+          "sc": "你船是让路船，请及早并大幅度采取行动。",
+          "tc": "貴船是讓路船，請及早並大幅度採取行動。"
+        },
+        {
+          "en": "I wish to overtake you on your port side. Do you agree?",
+          "sc": "我船想从你船左舷追越，你同意吗？",
+          "tc": "本船想從貴船左舷追越，同意嗎？"
+        },
+        {
+          "en": "Agreed. I will keep my course and speed. / Negative, do not overtake.",
+          "sc": "同意，我船保持航向航速。/ 不同意，请勿追越。",
+          "tc": "同意，本船保持航向航速。/ 不同意，請勿追越。"
+        },
+        {
+          "en": "CPA zero decimal three miles, TCPA eight minutes.",
+          "sc": "最近会遇距离 0.3 海里，到达最近会遇点时间 8 分钟。",
+          "tc": "最近接近距離 0.3 浬，到達最近接近點時間 8 分鐘。"
+        },
+        {
+          "en": "I am restricted in my ability to manoeuvre / constrained by my draught.",
+          "sc": "我船操纵能力受限 / 我船受吃水限制。",
+          "tc": "本船操縱能力受限 / 本船受吃水限制。"
+        },
+        {
+          "en": "I am not under command. Keep clear.",
+          "sc": "我船失控，请避让。",
+          "tc": "本船失去操縱能力，請避讓。"
+        },
+        {
+          "en": "I am reducing speed / stopping engines / going astern.",
+          "sc": "我船正在减速 / 停车 / 倒车。",
+          "tc": "本船正在減速 / 停俥 / 倒俥。"
+        },
+        {
+          "en": "Crossing situation / head-on situation / overtaking situation.",
+          "sc": "交叉相遇局面 / 对遇局面 / 追越局面。",
+          "tc": "交叉相遇情況 / 迎面相遇情況 / 追越情況。"
+        },
+        {
+          "en": "Risk of collision exists. / Close-quarters situation.",
+          "sc": "存在碰撞危险。/ 紧迫局面。",
+          "tc": "存在碰撞危險。/ 緊迫情況。"
+        },
+        {
+          "en": "Fishing vessels / fishing nets ahead – alter course to keep clear.",
+          "sc": "前方有渔船 / 渔网——请转向避开。",
+          "tc": "前方有漁船 / 漁網——請轉向避開。"
+        },
+        {
+          "en": "Thank you, Captain. Have a safe watch / safe voyage.",
+          "sc": "谢谢，船长。祝值班平安 / 一路顺风。",
+          "tc": "謝謝，船長。祝當值平安 / 一路順風。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title_en": "5. Bunkering at Singapore Anchorage (HSFO / VLSFO / MGO / Lube Oil)",
+      "title_sc": "5. 新加坡锚地加油（高硫油 / 低硫油 / 轻柴油 / 滑油）",
+      "title_tc": "5. 新加坡錨地加油（高硫油 / 低硫油 / 輕柴油 / 滑油）",
+      "notes": [
+        {
+          "en": "Fuel names: HSFO = High Sulphur Fuel Oil (≤3.5% S, for ships with scrubber); VLSFO = Very Low Sulphur Fuel Oil (≤0.50% S); ULSFO ≤0.10%; MGO = Marine Gas Oil; LSMGO = Low Sulphur MGO; Lube oil = cylinder oil / system oil. Singapore uses Mass Flow Meters (MFM) on bunker tankers and requires a Bunker Delivery Note (BDN). Third Officer usually assists the Chief Engineer: soundings, SOPEP, scuppers plugged, signals (Bravo flag / red light), moorings and communications.",
+          "sc": "油品名称：HSFO 高硫燃油（含硫≤3.5%，装脱硫塔船舶用）；VLSFO 超低硫燃油（≤0.50%）；ULSFO ≤0.10%；MGO 船用轻柴油；LSMGO 低硫轻柴油；滑油 = 气缸油 / 系统油。新加坡驳船使用质量流量计 (MFM)，必须提供燃油交付单 (BDN)。三副通常协助轮机长：测深、SOPEP 器材、堵好甲板排水孔、悬挂 B 旗/红灯、系缆及通信。",
+          "tc": "油品名稱：HSFO 高硫燃油（含硫≤3.5%，裝洗滌塔船舶用）；VLSFO 超低硫燃油（≤0.50%）；ULSFO ≤0.10%；MGO 船用輕柴油；LSMGO 低硫輕柴油；滑油 = 汽缸油 / 系統油。新加坡加油船使用質量流量計 (MFM)，必須提供燃油交付單 (BDN)。三副通常協助輪機長：測深、SOPEP 器材、塞好甲板排水孔、懸掛 B 旗/紅燈、繫纜及通訊。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "Bunker barge ___, this is FPMC C LORD at Eastern Bunkering Anchorage, over.",
+          "sc": "加油驳 ___，这里是位于东部加油锚地的 FPMC C LORD，请回答。",
+          "tc": "加油船 ___，這裡是位於東部加油錨地的 FPMC C LORD，請回答。"
+        },
+        {
+          "en": "What is your ETA alongside?",
+          "sc": "你预计什么时候靠我船？",
+          "tc": "你預計什麼時候靠本船？"
+        },
+        {
+          "en": "We will come alongside your starboard side / port side at about ___ hours.",
+          "sc": "我们将在约 ___ 时靠你船右舷 / 左舷。",
+          "tc": "我們將在約 ___ 時靠你船右舷 / 左舷。"
+        },
+        {
+          "en": "Starboard side is ready. Fenders and mooring lines are ready.",
+          "sc": "右舷已准备好。护舷和缆绳已准备好。",
+          "tc": "右舷已準備好。碰墊和纜繩已準備好。"
+        },
+        {
+          "en": "Please send your heaving line / We will send our line.",
+          "sc": "请抛撇缆过来 / 我们会抛缆过去。",
+          "tc": "請拋撇纜過來 / 我們會拋纜過去。"
+        },
+        {
+          "en": "How many lines forward and aft? – Two head lines, one spring forward; two stern lines, one spring aft.",
+          "sc": "首尾各要几根缆？——首缆 2 根加首倒缆 1 根；尾缆 2 根加尾倒缆 1 根。",
+          "tc": "艏艉各要幾根纜？——艏纜 2 根加艏倒纜 1 根；艉纜 2 根加艉倒纜 1 根。"
+        },
+        {
+          "en": "Bunker hose crane is ready. Please connect hose to ___ manifold (VLSFO / MGO).",
+          "sc": "输油软管吊已准备好。请把软管接到 ___ 接头（低硫油 / 轻柴油）。",
+          "tc": "油管吊桿已準備好。請把油管接到 ___ 接頭（低硫油 / 輕柴油）。"
+        },
+        {
+          "en": "Please show me the Bunker Requisition Form and quantity to be delivered.",
+          "sc": "请出示加油申请单和计划交付数量。",
+          "tc": "請出示加油申請單和計畫交付數量。"
+        },
+        {
+          "en": "Ordered quantity: VLSFO ___ metric tonnes, MGO ___ metric tonnes.",
+          "sc": "订购数量：低硫油 ___ 公吨，轻柴油 ___ 公吨。",
+          "tc": "訂購數量：低硫油 ___ 公噸，輕柴油 ___ 公噸。"
+        },
+        {
+          "en": "Please confirm grade, density at 15 °C, viscosity, sulphur content and temperature.",
+          "sc": "请确认油品等级、15 °C 密度、黏度、含硫量和温度。",
+          "tc": "請確認油品等級、15 °C 密度、黏度、含硫量和溫度。"
+        },
+        {
+          "en": "Pre-delivery meeting / bunker safety checklist – please sign together with our Chief Engineer.",
+          "sc": "加油前会议 / 加油安全检查表——请与我轮机长一起签字。",
+          "tc": "加油前會議 / 加油安全檢查表——請與本船輪機長一起簽字。"
+        },
+        {
+          "en": "Agree pumping rate: start slowly at ___ m³/h, then maximum ___ m³/h.",
+          "sc": "商定泵速：先慢速 ___ 立方米/小时，然后最大 ___ 立方米/小时。",
+          "tc": "商定泵速：先慢速 ___ 立方公尺/小時，然後最大 ___ 立方公尺/小時。"
+        },
+        {
+          "en": "Communication: we use walkie-talkie channel ___ / VHF channel ___. Emergency stop signal: ___.",
+          "sc": "通信方式：对讲机 ___ 频道 / VHF ___ 频道。紧急停泵信号：___。",
+          "tc": "通訊方式：對講機 ___ 頻道 / VHF ___ 頻道。緊急停泵信號：___。"
+        },
+        {
+          "en": "Ready to receive. Please start pumping slowly.",
+          "sc": "可以接收了，请慢速开始泵油。",
+          "tc": "可以接收了，請慢速開始泵油。"
+        },
+        {
+          "en": "Stop pumping! Stop pumping! (emergency)",
+          "sc": "停泵！停泵！（紧急）",
+          "tc": "停泵！停泵！（緊急）"
+        },
+        {
+          "en": "Please reduce rate, we are topping off this tank.",
+          "sc": "请降低泵速，我们这个舱快满了（平舱）。",
+          "tc": "請降低泵速，我們這個艙快滿了（平艙）。"
+        },
+        {
+          "en": "Please give me the meter reading before / after delivery (MFM totaliser).",
+          "sc": "请告诉我交付前 / 后的流量计读数（MFM 累计值）。",
+          "tc": "請告訴我交付前 / 後的流量計讀數（MFM 累計值）。"
+        },
+        {
+          "en": "Drip samples: four samples – one for ship, one for barge, one MARPOL sample, one for lab. Please seal and sign.",
+          "sc": "滴样：共 4 份——船方 1 份、驳船 1 份、MARPOL 留样 1 份、化验室 1 份。请封签。",
+          "tc": "滴樣：共 4 份——船方 1 份、加油船 1 份、MARPOL 留樣 1 份、化驗室 1 份。請封簽。"
+        },
+        {
+          "en": "Hose is drained / blown through. Please disconnect.",
+          "sc": "软管已排空 / 已扫线，请拆管。",
+          "tc": "油管已排空 / 已掃線，請拆管。"
+        },
+        {
+          "en": "Please give me the BDN (Bunker Delivery Note) for signature.",
+          "sc": "请给我燃油交付单 (BDN) 签字。",
+          "tc": "請給我燃油交付單 (BDN) 簽字。"
+        },
+        {
+          "en": "Quantity dispute – we will issue a Letter of Protest.",
+          "sc": "数量有争议——我们会出具抗议书。",
+          "tc": "數量有爭議——我們會出具抗議書。"
+        },
+        {
+          "en": "Lube oil supply: ___ drums / ___ litres in bulk of cylinder oil / system oil. Please deliver by crane to main deck.",
+          "sc": "滑油补给：气缸油 / 系统油 ___ 桶 / 散装 ___ 升。请用吊车吊到主甲板。",
+          "tc": "滑油補給：汽缸油 / 系統油 ___ 桶 / 散裝 ___ 公升。請用吊車吊到主甲板。"
+        },
+        {
+          "en": "All scuppers plugged, SOPEP equipment ready, B flag hoisted / red light on.",
+          "sc": "所有排水孔已堵好，防油污器材就位，已挂 B 旗 / 开红灯。",
+          "tc": "所有排水孔已塞好，防油污器材就位，已掛 B 旗 / 開紅燈。"
+        },
+        {
+          "en": "No smoking, no hot work during bunkering.",
+          "sc": "加油期间禁止吸烟，禁止明火作业。",
+          "tc": "加油期間禁止吸菸，禁止動火作業。"
+        },
+        {
+          "en": "Bunkering completed at ___ hours. Please let go lines.",
+          "sc": "加油于 ___ 时完成。请解缆。",
+          "tc": "加油於 ___ 時完成。請解纜。"
+        },
+        {
+          "en": "Our bunker manifold is eight-inch for fuel oil, four-inch for MGO. Please bring the correct reducer.",
+          "sc": "我船加油接头：燃油 8 英寸，轻柴油 4 英寸。请带合适的变径接头。",
+          "tc": "本船加油接頭：燃油 8 吋，輕柴油 4 吋。請帶合適的異徑接頭。"
+        },
+        {
+          "en": "Maximum pumping rate: fuel oil five hundred cubic metres per hour, MGO one hundred.",
+          "sc": "最大泵速：燃油每小时 500 立方米，轻柴油 100 立方米。",
+          "tc": "最大泵速：燃油每小時 500 立方公尺，輕柴油 100 立方公尺。"
+        },
+        {
+          "en": "Our freeboard in ballast is about two-zero metres. Use our hose crane, SWL twenty tonnes.",
+          "sc": "我船压载时干舷约 20 米，请用我船软管吊，安全负荷 20 吨。",
+          "tc": "本船壓艙時乾舷約 20 公尺，請用本船油管吊，安全負荷 20 噸。"
+        },
+        {
+          "en": "The barge is small compared to us – please use enough fenders and watch our high freeboard.",
+          "sc": "驳船比我船小很多——请多放护舷，注意我船干舷很高。",
+          "tc": "加油船比本船小很多——請多放碰墊，注意本船乾舷很高。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title_en": "6. Agent Boat, Launch Boat & Supply Boat Approach",
+      "title_sc": "6. 代理艇、交通艇与供应船靠船",
+      "title_tc": "6. 代理艇、交通艇與補給船靠船",
+      "notes": [],
+      "phrases": [
+        {
+          "en": "Launch boat ___, this is FPMC C LORD at anchorage ___, position ___.",
+          "sc": "交通艇 ___，这里是 FPMC C LORD，在 ___ 锚地，船位 ___。",
+          "tc": "交通艇 ___，這裡是 FPMC C LORD，在 ___ 錨地，船位 ___。"
+        },
+        {
+          "en": "Agent, what time will you come on board?",
+          "sc": "代理，你几点上船？",
+          "tc": "代理，你幾點上船？"
+        },
+        {
+          "en": "Which side do you want to come alongside? – Lee side, port side please.",
+          "sc": "你要靠哪一舷？——请靠下风舷，左舷。",
+          "tc": "你要靠哪一舷？——請靠下風舷，左舷。"
+        },
+        {
+          "en": "Pilot ladder / accommodation ladder is rigged on port side, ___ metres above water.",
+          "sc": "引航梯 / 舷梯已放在左舷，离水面 ___ 米。",
+          "tc": "引水梯 / 舷梯已放在左舷，離水面 ___ 公尺。"
+        },
+        {
+          "en": "Please approach slowly. Swell is about one metre.",
+          "sc": "请慢慢靠近，涌浪约 1 米。",
+          "tc": "請慢慢靠近，湧浪約 1 公尺。"
+        },
+        {
+          "en": "How many persons are coming on board? Please give names.",
+          "sc": "有几个人上船？请告诉我姓名。",
+          "tc": "有幾個人上船？請告訴我姓名。"
+        },
+        {
+          "en": "We have ___ crew signing off / joining. Please arrange transport.",
+          "sc": "我们有 ___ 名船员下船 / 上船，请安排交通。",
+          "tc": "我們有 ___ 名船員下船 / 上船，請安排交通。"
+        },
+        {
+          "en": "Please bring the ship's mail, spare parts and documents.",
+          "sc": "请带来船舶信件、备件和文件。",
+          "tc": "請帶來船舶信件、備件和文件。"
+        },
+        {
+          "en": "Provision / stores boat: please deliver by our provision crane, starboard side midship.",
+          "sc": "伙食 / 物料船：请用我们的伙食吊，右舷中部交货。",
+          "tc": "伙食 / 物料船：請用我們的伙食吊，右舷中部交貨。"
+        },
+        {
+          "en": "Fresh water supply: ___ tonnes. Please connect hose to fresh water inlet.",
+          "sc": "淡水补给：___ 吨。请把软管接到淡水注入口。",
+          "tc": "淡水補給：___ 噸。請把水管接到淡水注入口。"
+        },
+        {
+          "en": "Garbage / sludge collection: ___ m³. Please provide receipt.",
+          "sc": "垃圾 / 油泥接收：___ 立方米。请提供收据。",
+          "tc": "垃圾 / 油渣接收：___ 立方公尺。請提供收據。"
+        },
+        {
+          "en": "Please do not tie up at the ladder. Keep off when the ship is rolling.",
+          "sc": "请不要绑在梯子上。船摇摆时请离开。",
+          "tc": "請不要綁在梯子上。船搖擺時請離開。"
+        },
+        {
+          "en": "All persons wear life jackets when transferring.",
+          "sc": "转驳时所有人必须穿救生衣。",
+          "tc": "轉駁時所有人必須穿救生衣。"
+        },
+        {
+          "en": "Launch is clear of the ship. Thank you.",
+          "sc": "交通艇已离开本船，谢谢。",
+          "tc": "交通艇已離開本船，謝謝。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title_en": "7. Arrival in the Gulf – Port Control, Anchoring & Pilot Arrangements",
+      "title_sc": "7. 抵达中东海湾——港口控制、抛锚与引航安排",
+      "title_tc": "7. 抵達中東海灣——港口管制、拋錨與引水安排",
+      "notes": [
+        {
+          "en": "Examples of loading ports: Kuwait (Shuaiba, Mina Al Ahmadi), UAE (Ruwais, Jebel Ali, Fujairah), Qatar (Ras Laffan, Mesaieed). Send ETA notices as per charter party (e.g. 72/48/24 hours). Ladder requirements: SOLAS V/23 and IMO A.1045 – a combination arrangement is required when the distance from the water to the point of access is more than 9 m. Check port's own pilot boarding requirements.",
+          "sc": "装货港举例：科威特（舒艾巴、艾哈迈迪港），阿联酋（鲁韦斯、杰贝阿里、富查伊拉），卡塔尔（拉斯拉凡、梅赛义德）。按租约发 ETA 预报（如 72/48/24 小时）。引航梯要求：SOLAS V/23 及 IMO A.1045——水面至登乘点超过 9 米时须用组合梯。另需核对港口自身的引航登轮要求。",
+          "tc": "裝貨港舉例：科威特（舒艾巴、艾哈邁迪港），阿聯酋（魯韋斯、傑貝阿里、富查伊拉），卡達（拉斯拉凡、梅賽義德）。依租約發 ETA 預報（如 72/48/24 小時）。引水梯要求：SOLAS V/23 及 IMO A.1045——水面至登乘點超過 9 公尺時須用組合梯。另需核對港口自身的引水登輪要求。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "Port Control, this is FPMC C LORD, inbound, ETA at pilot station ___ hours, over.",
+          "sc": "港口控制，这里是 FPMC C LORD，进港，预计 ___ 时到引航站，请回答。",
+          "tc": "港口管制，這裡是 FPMC C LORD，進港，預計 ___ 時到引水站，請回答。"
+        },
+        {
+          "en": "We are arriving to load ___ for Mailiao, Taiwan. Agent is ___.",
+          "sc": "我船前来装 ___，目的港台湾麦寮。代理是 ___。",
+          "tc": "本船前來裝 ___，目的港台灣麥寮。代理是 ___。"
+        },
+        {
+          "en": "Notice of Readiness (NOR) tendered at ___ hours.",
+          "sc": "装卸准备就绪通知书 (NOR) 已于 ___ 时递交。",
+          "tc": "裝卸準備就緒通知書 (NOR) 已於 ___ 時遞交。"
+        },
+        {
+          "en": "Please advise anchorage position. – Proceed to anchorage area ___ and drop anchor.",
+          "sc": "请告知锚位。——驶往 ___ 锚区抛锚。",
+          "tc": "請告知錨位。——駛往 ___ 錨區拋錨。"
+        },
+        {
+          "en": "My anchor is down at ___ hours, position ___, ___ shackles in water.",
+          "sc": "我船于 ___ 时抛锚，锚位 ___，___ 节锚链入水。",
+          "tc": "本船於 ___ 時拋錨，錨位 ___，___ 節錨鏈入水。"
+        },
+        {
+          "en": "Anchor holding. / Anchor is dragging.",
+          "sc": "锚抓牢了。/ 走锚了。",
+          "tc": "錨抓牢了。/ 走錨了。"
+        },
+        {
+          "en": "What time is pilot boarding? – Pilot boarding time ___ hours at pilot boarding ground ___.",
+          "sc": "引航员几点登轮？——___ 时在引航登轮点 ___ 登轮。",
+          "tc": "引水人幾點登輪？——___ 時在引水登輪點 ___ 登輪。"
+        },
+        {
+          "en": "Which side for the pilot ladder? – Rig pilot ladder on starboard side, one metre above water.",
+          "sc": "引航梯放哪一舷？——右舷，离水面 1 米。",
+          "tc": "引水梯放哪一舷？——右舷，離水面 1 公尺。"
+        },
+        {
+          "en": "Our freeboard is ___ metres. We will rig a combination ladder (accommodation ladder + pilot ladder).",
+          "sc": "我船干舷 ___ 米，将使用组合梯（舷梯 + 引航梯）。",
+          "tc": "本船乾舷 ___ 公尺，將使用組合梯（舷梯 + 引水梯）。"
+        },
+        {
+          "en": "Pilot ladder height: two metres above water / as required by pilot.",
+          "sc": "引航梯高度：离水面 2 米 / 按引航员要求。",
+          "tc": "引水梯高度：離水面 2 公尺 / 依引水人要求。"
+        },
+        {
+          "en": "Request speed and course for boarding. – Make speed six knots, course ___, make a lee on port side.",
+          "sc": "请告知登轮航速航向。——航速 6 节，航向 ___，左舷做下风。",
+          "tc": "請告知登輪航速航向。——航速 6 節，航向 ___，左舷做下風。"
+        },
+        {
+          "en": "Pilot boat is approaching your starboard side.",
+          "sc": "引航艇正在靠近你船右舷。",
+          "tc": "引水艇正在靠近貴船右舷。"
+        },
+        {
+          "en": "Pilot ladder rigged, lifebuoy with light, heaving line and officer ready at the ladder.",
+          "sc": "引航梯已放好，带灯救生圈、撇缆和驾驶员已在梯口准备好。",
+          "tc": "引水梯已放好，附燈救生圈、撇纜和駕駛員已在梯口準備好。"
+        },
+        {
+          "en": "Pilot on board at ___ hours.",
+          "sc": "引航员于 ___ 时登轮。",
+          "tc": "引水人於 ___ 時登輪。"
+        },
+        {
+          "en": "Berthing time is postponed due to high wind / berth not ready.",
+          "sc": "因大风 / 泊位未准备好，靠泊时间推迟。",
+          "tc": "因強風 / 泊位未準備好，靠泊時間延後。"
+        },
+        {
+          "en": "Please advise expected berthing schedule / line-up.",
+          "sc": "请告知预计靠泊计划 / 排队顺序。",
+          "tc": "請告知預計靠泊計畫 / 排隊順序。"
+        },
+        {
+          "en": "Free pratique granted / requested.",
+          "sc": "检疫已通过 / 申请检疫。",
+          "tc": "檢疫已通過 / 申請檢疫。"
+        },
+        {
+          "en": "Our freeboard is about two-zero metres in ballast. We will rig a combination ladder on the lee side.",
+          "sc": "我船压载时干舷约 20 米，将在下风舷放组合梯。",
+          "tc": "本船壓艙時乾舷約 20 公尺，將在下風舷放組合梯。"
+        },
+        {
+          "en": "Laden, our freeboard is about eight decimal four metres. Pilot ladder only / combination if over nine metres.",
+          "sc": "满载时干舷约 8.4 米。只放引航梯；若超过 9 米则用组合梯。",
+          "tc": "滿載時乾舷約 8.4 公尺。只放引水梯；若超過 9 公尺則用組合梯。"
+        },
+        {
+          "en": "Accommodation ladder lower platform will be five metres above water, pilot ladder two metres above water.",
+          "sc": "舷梯下平台离水面 5 米，引航梯离水面 2 米。",
+          "tc": "舷梯下平台離水面 5 公尺，引水梯離水面 2 公尺。"
+        },
+        {
+          "en": "Mooring Master will board at SPM area / berth ___. Please advise boarding time and side.",
+          "sc": "系泊主管将在单点系泊区 / ___ 泊位登轮，请告知登轮时间和舷别。",
+          "tc": "繫泊主管將在單點繫泊區 / ___ 泊位登輪，請告知登輪時間和舷別。"
+        },
+        {
+          "en": "Request permission to heave up anchor and proceed to pilot station.",
+          "sc": "请求起锚驶往引航站。",
+          "tc": "請求起錨駛往引水站。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title_en": "8. Pilot on the Bridge & Master–Pilot Exchange",
+      "title_sc": "8. 引航员在驾驶台及船长与引航员信息交换",
+      "title_tc": "8. 引水人在駕駛台及船長與引水人資訊交換",
+      "notes": [],
+      "phrases": [
+        {
+          "en": "Good morning, Pilot. Welcome on board. This way to the bridge, please.",
+          "sc": "引航员早上好，欢迎登轮。这边请到驾驶台。",
+          "tc": "引水人早安，歡迎登輪。這邊請到駕駛台。"
+        },
+        {
+          "en": "This is the Pilot Card. Draft forward ___, aft ___, displacement ___.",
+          "sc": "这是引航卡。首吃水 ___，尾吃水 ___，排水量 ___。",
+          "tc": "這是引水卡。艏吃水 ___，艉吃水 ___，排水量 ___。"
+        },
+        {
+          "en": "Engine is ready. Full ahead manoeuvring ___ knots. Right-hand fixed-pitch propeller.",
+          "sc": "主机已备妥。全速前进（操纵）___ 节。右旋定距桨。",
+          "tc": "主機已備妥。全速前進（操縱）___ 節。右旋定距俥葉。"
+        },
+        {
+          "en": "Bow thruster available / not fitted.",
+          "sc": "有侧推器可用 / 没有安装侧推。",
+          "tc": "有艏側推可用 / 沒有安裝艏側推。"
+        },
+        {
+          "en": "Gyro error ___ high / low. Radars, ECDIS, echo sounder working.",
+          "sc": "电罗经误差偏高 / 偏低 ___。雷达、ECDIS、测深仪工作正常。",
+          "tc": "電羅經誤差偏高 / 偏低 ___。雷達、ECDIS、測深儀工作正常。"
+        },
+        {
+          "en": "Starboard side alongside, ___ tugs, ___ lines each end.",
+          "sc": "右舷靠泊，___ 艘拖轮，首尾各 ___ 根缆。",
+          "tc": "右舷靠泊，___ 艘拖船，艏艉各 ___ 根纜。"
+        },
+        {
+          "en": "Tug made fast forward / aft. Tug's line is on bitts.",
+          "sc": "首 / 尾拖轮已带好，拖缆已挽桩。",
+          "tc": "艏 / 艉拖船已帶好，拖纜已掛樁。"
+        },
+        {
+          "en": "Port ten. / Starboard twenty. / Hard a-port. / Midships. / Steady. / Steady as she goes.",
+          "sc": "左舵 10。/ 右舵 20。/ 左满舵。/ 正舵。/ 把定。/ 照直走。",
+          "tc": "左舵 10。/ 右舵 20。/ 左滿舵。/ 正舵。/ 穩舵。/ 照直走。"
+        },
+        {
+          "en": "Steer one-two-five. / Course one-two-five.",
+          "sc": "操 125。/ 航向 125。",
+          "tc": "操 125。/ 航向 125。"
+        },
+        {
+          "en": "Dead slow ahead. / Slow ahead. / Half ahead. / Full ahead. / Stop engine. / Slow astern.",
+          "sc": "微速前进。/ 慢速前进。/ 半速前进。/ 全速前进。/ 停车。/ 慢速后退。",
+          "tc": "微速前進。/ 慢速前進。/ 半速前進。/ 全速前進。/ 停俥。/ 慢速倒俥。"
+        },
+        {
+          "en": "(Repeat every order back): 'Port ten' – 'Port ten, sir.' – 'Wheel is port ten.'",
+          "sc": "（每个口令都要复诵）：「左舵 10」—「左舵 10」—「舵在左 10」。",
+          "tc": "（每個口令都要複誦）：「左舵 10」—「左舵 10」—「舵在左 10」。"
+        },
+        {
+          "en": "Let go anchor! / Hold on! / Heave up!",
+          "sc": "抛锚！/ 刹住！/ 绞锚！",
+          "tc": "拋錨！/ 煞住！/ 絞錨！"
+        },
+        {
+          "en": "Forward station, stand by both anchors.",
+          "sc": "船首，备双锚。",
+          "tc": "船艏，備雙錨。"
+        },
+        {
+          "en": "Send out the head line / spring line. / Heave in slowly. / Make fast. / Slack away.",
+          "sc": "送出首缆 / 倒缆。/ 慢慢绞进。/ 挽牢。/ 松缆。",
+          "tc": "送出艏纜 / 倒纜。/ 慢慢絞進。/ 掛牢。/ 鬆纜。"
+        },
+        {
+          "en": "Distance to berth fifty metres … thirty … ten … alongside.",
+          "sc": "离码头 50 米……30……10……靠妥。",
+          "tc": "離碼頭 50 公尺……30……10……靠妥。"
+        },
+        {
+          "en": "All fast forward and aft at ___ hours. Finished with engine.",
+          "sc": "___ 时首尾带缆完毕。完车。",
+          "tc": "___ 時艏艉帶纜完畢。完俥。"
+        },
+        {
+          "en": "Pilot, please sign the pilot form. / Pilot disembarked at ___.",
+          "sc": "引航员，请签引航单。/ 引航员于 ___ 时离船。",
+          "tc": "引水人，請簽引水單。/ 引水人於 ___ 時離船。"
+        },
+        {
+          "en": "Ship is VLCC, length three-three-three metres, beam six-zero metres, draft ___.",
+          "sc": "本船是 VLCC，总长 333 米，型宽 60 米，吃水 ___。",
+          "tc": "本船是 VLCC，全長 333 公尺，船寬 60 公尺，吃水 ___。"
+        },
+        {
+          "en": "Main engine slow-speed diesel, astern power about seventy percent of ahead. Maximum fifteen consecutive starts.",
+          "sc": "主机为低速柴油机，倒车功率约为正车的 70%，最多连续启动 15 次。",
+          "tc": "主機為低速柴油機，倒俥出力約為正俥的 70%，最多連續啟動 15 次。"
+        },
+        {
+          "en": "No bow thruster. Please plan tugs accordingly (usually four to five for berthing).",
+          "sc": "本船没有侧推，请据此安排拖轮（靠泊通常 4–5 艘）。",
+          "tc": "本船沒有艏側推，請據此安排拖船（靠泊通常 4–5 艘）。"
+        },
+        {
+          "en": "Bridge to bow two-eight-two metres, bridge to stern five-one metres. Manifold one-six-four metres from bow.",
+          "sc": "驾驶台至船首 282 米，至船尾 51 米。总管距船首 164 米。",
+          "tc": "駕駛台至船艏 282 公尺，至船艉 51 公尺。集油管距船艏 164 公尺。"
+        },
+        {
+          "en": "Large ship – stopping distance is long. Please give engine orders early.",
+          "sc": "大船——停船冲程很长，请提早下车令。",
+          "tc": "大船——停船衝程很長，請提早下俥令。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title_en": "9. Mooring & Gangway at Terminal",
+      "title_sc": "9. 码头系泊与舷梯",
+      "title_tc": "9. 碼頭繫泊與舷梯",
+      "notes": [],
+      "phrases": [
+        {
+          "en": "Mooring pattern: 4–2–2 forward and aft (head lines – breast lines – springs).",
+          "sc": "系泊方式：首尾各 4–2–2（首/尾缆–横缆–倒缆）。",
+          "tc": "繫泊方式：艏艉各 4–2–2（艏/艉纜–橫纜–倒纜）。"
+        },
+        {
+          "en": "Mooring lines tended regularly due to tide and cargo operations.",
+          "sc": "因潮汐和装卸作业，定时调整缆绳。",
+          "tc": "因潮汐和裝卸作業，定時調整纜繩。"
+        },
+        {
+          "en": "Gangway rigged and secured, safety net, lifebuoy with line in place.",
+          "sc": "舷梯已放好并固定，安全网、带绳救生圈已就位。",
+          "tc": "舷梯已放好並固定，安全網、附繩救生圈已就位。"
+        },
+        {
+          "en": "Gangway watch: all visitors must sign in and show ID / port pass.",
+          "sc": "梯口值班：所有来访人员须登记并出示证件 / 港口通行证。",
+          "tc": "梯口當值：所有訪客須登記並出示證件 / 港口通行證。"
+        },
+        {
+          "en": "Emergency towing-off wires (fire wires) rigged forward and aft on offshore side.",
+          "sc": "外档首尾已放好应急拖缆（消防拖缆）。",
+          "tc": "外檔艏艉已放好緊急拖纜（消防拖纜）。"
+        },
+        {
+          "en": "ISPS: ship security level 1. Please show your visitor card.",
+          "sc": "ISPS：船舶保安等级 1。请出示访客证。",
+          "tc": "ISPS：船舶保全等級 1。請出示訪客證。"
+        },
+        {
+          "en": "Our mooring wires are forty-two millimetre steel wire with eleven-metre synthetic tails. SDMBL one-one-zero tonnes.",
+          "sc": "我船系泊缆为 42 毫米钢丝缆，加 11 米合成纤维尾缆。设计最小破断力 110 吨。",
+          "tc": "本船繫泊纜為 42 公釐鋼索，加 11 公尺合成纖維尾纜。設計最小破斷力 110 噸。"
+        },
+        {
+          "en": "Winch brakes are set at sixty percent of MBL (66 tonnes).",
+          "sc": "绞缆机刹车设定为破断力的 60%（66 吨）。",
+          "tc": "絞纜機剎車設定為破斷力的 60%（66 噸）。"
+        },
+        {
+          "en": "Fire wires (42 mm) rigged on offshore side, eye one to two metres above water.",
+          "sc": "外档已放 42 毫米消防拖缆，眼环离水面 1–2 米。",
+          "tc": "外檔已放 42 公釐消防拖纜，眼環離水面 1–2 公尺。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title_en": "9A. SPM / Single Buoy Mooring Operations (VLCC)",
+      "title_sc": "9A. 单点系泊作业（VLCC）",
+      "title_tc": "9A. 單點繫泊作業（VLCC）",
+      "notes": [
+        {
+          "en": "Several Gulf crude terminals load VLCCs at SPMs. FPMC C LORD has 2 tongue-type bow chain stoppers (350 t, for 76 mm chain). The Mooring Master leads the operation; the Chief Officer and forward team carry it out.",
+          "sc": "海湾多个原油码头用单点系泊装 VLCC。FPMC C LORD 船首有 2 个舌式制链器（350 吨，适用 76 毫米链）。由系泊主管指挥，大副和船首人员执行。",
+          "tc": "海灣多個原油碼頭以單點繫泊裝 VLCC。FPMC C LORD 船艏有 2 個舌式制鏈器（350 噸，適用 76 公釐鏈）。由繫泊主管指揮，大副和船艏人員執行。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "Mooring Master, welcome on board. Forward station is ready for SPM mooring.",
+          "sc": "系泊主管，欢迎登轮。船首已准备好单点系泊。",
+          "tc": "繫泊主管，歡迎登輪。船艏已準備好單點繫泊。"
+        },
+        {
+          "en": "Both chain stoppers open, bow fairleads clear, messenger winch / capstan ready.",
+          "sc": "两个制链器已打开，船首导缆孔清理好，引缆绞车 / 绞盘已备妥。",
+          "tc": "兩個制鏈器已打開，船艏導纜孔清理好，引纜絞車 / 絞盤已備妥。"
+        },
+        {
+          "en": "Distance to buoy two hundred metres … one hundred … fifty.",
+          "sc": "离浮筒 200 米……100……50。",
+          "tc": "離浮筒 200 公尺……100……50。"
+        },
+        {
+          "en": "Pick-up rope on board. Heaving messenger line slowly.",
+          "sc": "拾缆绳已上船，正在慢慢绞引缆。",
+          "tc": "拾纜繩已上船，正在慢慢絞引纜。"
+        },
+        {
+          "en": "Chafe chain in the stopper. Stopper closed and locked.",
+          "sc": "防磨链已进入制链器，制链器已关闭并锁好。",
+          "tc": "防磨鏈已進入制鏈器，制鏈器已關閉並鎖好。"
+        },
+        {
+          "en": "Floating hoses alongside port side. Please pick up with hose crane.",
+          "sc": "浮动软管已到左舷，请用软管吊吊起。",
+          "tc": "浮動油管已到左舷，請用油管吊吊起。"
+        },
+        {
+          "en": "Hose connected to manifold No. ___. Ready for leak test.",
+          "sc": "软管已接 ___ 号总管，准备泄漏测试。",
+          "tc": "油管已接 ___ 號集油管，準備洩漏測試。"
+        },
+        {
+          "en": "Ship is yawing / riding over the buoy. Engine dead slow astern to keep tension off the hawser.",
+          "sc": "船在偏荡 / 骑上浮筒。主机微速后退，减轻系泊缆张力。",
+          "tc": "船在偏盪 / 騎上浮筒。主機微速倒俥，減輕繫泊纜張力。"
+        },
+        {
+          "en": "Keep a watch on the hawser and hose string; report any abnormal tension or leak.",
+          "sc": "注意观察系泊缆和软管串，有异常张力或泄漏立即报告。",
+          "tc": "注意觀察繫泊纜和油管串，有異常張力或洩漏立即報告。"
+        },
+        {
+          "en": "Unmooring: release chain stopper on Mooring Master's order. Hawser is clear.",
+          "sc": "解系泊：按系泊主管指令释放制链器。系泊缆已脱开。",
+          "tc": "解繫泊：依繫泊主管指令釋放制鏈器。繫泊纜已脫開。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title_en": "10. Cargo Operations – Loading Master, Terminal & Surveyors",
+      "title_sc": "10. 货物作业——装货主管、码头与商检",
+      "title_tc": "10. 貨物作業——裝貨主管、碼頭與公證檢驗",
+      "notes": [
+        {
+          "en": "As a trainee 3/O you will usually assist the Chief Officer: ullage / temperature / interface readings, sampling, draft reading, hourly rate reporting and keeping the cargo log. The loading rate, sequence and topping-off are decided by the Chief Officer with the terminal – always report, never change on your own.",
+          "sc": "见习三副通常协助大副：测空距 / 温度 / 油水界面、取样、看吃水、每小时报装货速率、记录货物日志。装货速率、顺序和平舱由大副与码头决定——只负责报告，不得自行更改。",
+          "tc": "見習三副通常協助大副：量空距 / 溫度 / 油水界面、取樣、看吃水、每小時報裝貨速率、記錄貨物日誌。裝貨速率、順序和平艙由大副與碼頭決定——只負責報告，不得自行更改。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "Good morning, Loading Master. I am the Third Officer; the Chief Officer is coming.",
+          "sc": "装货主管早上好，我是三副，大副马上过来。",
+          "tc": "裝貨主管早安，我是三副，大副馬上過來。"
+        },
+        {
+          "en": "Ship/Shore Safety Checklist (ISGOTT) – please complete together with the Chief Officer.",
+          "sc": "船岸安全检查表 (ISGOTT)——请与大副一起完成。",
+          "tc": "船岸安全檢查表 (ISGOTT)——請與大副一起完成。"
+        },
+        {
+          "en": "Pre-loading meeting: grade, quantity, loading sequence, maximum rate, stopping procedure.",
+          "sc": "装货前会议：油品、数量、装货顺序、最大速率、停泵程序。",
+          "tc": "裝貨前會議：油品、數量、裝貨順序、最大速率、停泵程序。"
+        },
+        {
+          "en": "Nomination: ___ metric tonnes of ___, plus / minus 5%, ship's option.",
+          "sc": "指示数量：___ 公吨 ___，±5%，船方选择。",
+          "tc": "指示數量：___ 公噸 ___，±5%，船方選擇。"
+        },
+        {
+          "en": "Which manifold do we connect? – Starboard manifolds Nos. 2, 3 and 4, 16-inch reducers.",
+          "sc": "接哪个总管？——右舷 2、3、4 号总管，16 英寸变径接头。",
+          "tc": "接哪個集油管？——右舷 2、3、4 號集油管，16 吋異徑接頭。"
+        },
+        {
+          "en": "Start loading slowly at ___ m³/h until we check the tank is receiving properly.",
+          "sc": "先以 ___ 立方米/小时慢速开始，确认货舱正常进货。",
+          "tc": "先以 ___ 立方公尺/小時慢速開始，確認貨艙正常進貨。"
+        },
+        {
+          "en": "All OK. You may increase the rate to ___ m³/h (maximum ___ m³/h).",
+          "sc": "一切正常，可以加到 ___ 立方米/小时（最高 ___ 立方米/小时）。",
+          "tc": "一切正常，可以加到 ___ 立方公尺/小時（最高 ___ 立方公尺/小時）。"
+        },
+        {
+          "en": "What is your present loading rate? – Present rate ___ cubic metres per hour.",
+          "sc": "你现在装货速率多少？——目前每小时 ___ 立方米。",
+          "tc": "你現在裝貨速率多少？——目前每小時 ___ 立方公尺。"
+        },
+        {
+          "en": "Hourly rate check: last hour we received ___ m³ / ___ MT. Shore figure is ___.",
+          "sc": "每小时速率核对：上一小时我们收到 ___ 立方米 / ___ 公吨。岸方数字是 ___。",
+          "tc": "每小時速率核對：上一小時我們收到 ___ 立方公尺 / ___ 公噸。岸方數字是 ___。"
+        },
+        {
+          "en": "There is a difference between ship and shore figures. Please check your meter.",
+          "sc": "船岸数字有差异，请检查你们的流量计。",
+          "tc": "船岸數字有差異，請檢查你們的流量計。"
+        },
+        {
+          "en": "Shore pressure at manifold ___ bar. Please do not exceed ___ bar.",
+          "sc": "总管处岸方压力 ___ bar，请勿超过 ___ bar。",
+          "tc": "集油管處岸方壓力 ___ bar，請勿超過 ___ bar。"
+        },
+        {
+          "en": "Please reduce rate to ___ m³/h for topping off in ___ minutes.",
+          "sc": "请在 ___ 分钟后把速率降到 ___ 立方米/小时，准备平舱。",
+          "tc": "請在 ___ 分鐘後把速率降到 ___ 立方公尺/小時，準備平艙。"
+        },
+        {
+          "en": "Standby to stop. … Stop loading now!",
+          "sc": "准备停泵……现在停止装货！",
+          "tc": "準備停泵……現在停止裝貨！"
+        },
+        {
+          "en": "Emergency stop! Stop cargo immediately!",
+          "sc": "紧急停泵！立即停止货物作业！",
+          "tc": "緊急停泵！立即停止貨物作業！"
+        },
+        {
+          "en": "Loading suspended due to thunderstorm / high wind / leak.",
+          "sc": "因雷暴 / 大风 / 泄漏暂停装货。",
+          "tc": "因雷雨 / 強風 / 洩漏暫停裝貨。"
+        },
+        {
+          "en": "Cargo hoses / loading arms connected at ___, disconnected at ___.",
+          "sc": "货油软管 / 装卸臂于 ___ 接上，___ 拆除。",
+          "tc": "貨油管 / 裝卸臂於 ___ 接上，___ 拆除。"
+        },
+        {
+          "en": "Ballast operation: we are deballasting tank ___, clean ballast, no oil.",
+          "sc": "压载作业：正在排 ___ 舱压载水，清洁压载水，无油。",
+          "tc": "壓艙作業：正在排 ___ 艙壓艙水，清潔壓艙水，無油。"
+        },
+        {
+          "en": "Surveyor, before loading please inspect the tanks (dry certificate / tank inspection).",
+          "sc": "检验员，装货前请验舱（干舱证书 / 验舱）。",
+          "tc": "公證行，裝貨前請驗艙（乾艙證書 / 驗艙）。"
+        },
+        {
+          "en": "Ullage, temperature and water dip with UTI tape: tank 1P ullage ___ cm, temp ___ °C, water nil.",
+          "sc": "用 UTI 尺测空距、温度和水尺：1 左舱空距 ___ 厘米，温度 ___ °C，无水。",
+          "tc": "用 UTI 尺量空距、溫度和水尺：1 左艙空距 ___ 公分，溫度 ___ °C，無水。"
+        },
+        {
+          "en": "Vessel's trim is ___ by the stern, list ___ degrees to port. Trim correction applied.",
+          "sc": "船舶尾倾 ___，左倾 ___ 度。已做纵倾修正。",
+          "tc": "船舶艉俯 ___，左傾 ___ 度。已做縱傾修正。"
+        },
+        {
+          "en": "Running samples / composite samples / first-foot samples – please seal and label.",
+          "sc": "过程样 / 混合样 / 首尺样——请封签贴标签。",
+          "tc": "過程樣 / 混合樣 / 首尺樣——請封簽貼標籤。"
+        },
+        {
+          "en": "Vessel Experience Factor (VEF) is ___.",
+          "sc": "船舶经验系数 (VEF) 为 ___。",
+          "tc": "船舶經驗係數 (VEF) 為 ___。"
+        },
+        {
+          "en": "Ship's figure ___ MT, Bill of Lading figure ___ MT, difference ___ %.",
+          "sc": "船方数量 ___ 公吨，提单数量 ___ 公吨，差异 ___ %。",
+          "tc": "船方數量 ___ 公噸，提單數量 ___ 公噸，差異 ___ %。"
+        },
+        {
+          "en": "Please read the draft marks together: forward ___, midship ___, aft ___.",
+          "sc": "请一起看吃水：首 ___，中 ___，尾 ___。",
+          "tc": "請一起看吃水：艏 ___，舯 ___，艉 ___。"
+        },
+        {
+          "en": "Cargo documents: Bill of Lading, Certificate of Quality, Certificate of Quantity, Certificate of Origin, Cargo Manifest, MSDS.",
+          "sc": "货运文件：提单、品质证书、数量证书、原产地证书、货物舱单、物质安全资料表。",
+          "tc": "貨運文件：載貨證券（提單）、品質證明、數量證明、原產地證明、艙單、物質安全資料表。"
+        },
+        {
+          "en": "The Master will issue a Letter of Protest for delay / shortage / excessive pressure.",
+          "sc": "船长将就延误 / 短少 / 压力过高出具抗议书。",
+          "tc": "船長將就延誤 / 短少 / 壓力過高出具抗議書。"
+        },
+        {
+          "en": "Inert gas: oxygen content below 8%, tank pressure ___ mmWG.",
+          "sc": "惰性气体：氧含量低于 8%，舱压 ___ 毫米水柱。",
+          "tc": "惰性氣體：含氧量低於 8%，艙壓 ___ 毫米水柱。"
+        },
+        {
+          "en": "Closed loading – all ullage ports and sighting ports closed. Vapour return line connected.",
+          "sc": "密闭装货——所有测量孔和观察孔关闭，油气回收管已接。",
+          "tc": "密閉裝貨——所有量測孔和觀察孔關閉，油氣回收管已接。"
+        },
+        {
+          "en": "Loading completed at ___ hours. Hoses drained and disconnected.",
+          "sc": "___ 时装货完毕，软管已排空并拆除。",
+          "tc": "___ 時裝貨完畢，油管已排空並拆除。"
+        },
+        {
+          "en": "We have three segregations and three cargo pumps of five thousand five hundred cubic metres per hour each.",
+          "sc": "我船有 3 个隔离系统，3 台货油泵，每台每小时 5,500 立方米。",
+          "tc": "本船有 3 個隔離系統，3 台貨油泵，每台每小時 5,500 立方公尺。"
+        },
+        {
+          "en": "Our maximum loading rate is two-one thousand cubic metres per hour with three connections.",
+          "sc": "我船最大装货速率为每小时 21,000 立方米（3 个接头）。",
+          "tc": "本船最大裝貨速率為每小時 21,000 立方公尺（3 個接頭）。"
+        },
+        {
+          "en": "Manifold height above water: about two-two metres now in ballast, about ten metres when completed.",
+          "sc": "总管离水面高度：现在压载约 22 米，装完约 10 米。",
+          "tc": "集油管離水面高度：現在壓艙約 22 公尺，裝完約 10 公尺。"
+        },
+        {
+          "en": "Manifold reducers: 20-to-16 inch fitted on Nos. ___ manifolds port / starboard side.",
+          "sc": "总管变径接头：左 / 右舷 ___ 号总管已装 20 转 16 英寸。",
+          "tc": "集油管異徑接頭：左 / 右舷 ___ 號集油管已裝 20 轉 16 吋。"
+        },
+        {
+          "en": "Deballasting will be done simultaneously with loading. Ballast is segregated (SBT), no oil.",
+          "sc": "边装货边排压载水。压载舱为专用压载舱，无油。",
+          "tc": "邊裝貨邊排壓艙水。壓艙水艙為專用壓艙水艙，無油。"
+        },
+        {
+          "en": "OBQ (on-board quantity) before loading: ___ m³ in slop tanks.",
+          "sc": "装货前船上存量 (OBQ)：污油水舱 ___ 立方米。",
+          "tc": "裝貨前船上存量 (OBQ)：污油水艙 ___ 立方公尺。"
+        },
+        {
+          "en": "Crude grade: ___ (e.g. Kuwait Export, Murban, Upper Zakum, Qatar Marine). API gravity ___, temperature ___ °C.",
+          "sc": "原油品种：___（如科威特出口、穆尔班、上扎库姆、卡塔尔海洋）。API 度 ___，温度 ___ °C。",
+          "tc": "原油品種：___（如科威特出口、穆爾班、上札庫姆、卡達海洋）。API 度 ___，溫度 ___ °C。"
+        },
+        {
+          "en": "H₂S warning: Crude may contain hydrogen sulphide. Wear personal gas detector, stay upwind at ullage ports.",
+          "sc": "硫化氢警告：原油可能含硫化氢。佩戴个人气体检测仪，测量时站在上风处。",
+          "tc": "硫化氫警告：原油可能含硫化氫。配戴個人氣體偵測器，量測時站在上風處。"
+        },
+        {
+          "en": "BS&W (basic sediment and water) ___ %. Free water in tank ___ cm.",
+          "sc": "沉淀物和水含量 (BS&W) ___ %。舱底游离水 ___ 厘米。",
+          "tc": "沉澱物和水含量 (BS&W) ___ %。艙底游離水 ___ 公分。"
+        },
+        {
+          "en": "IG pressure ___ kPa, oxygen ___ %. P/V valve setting plus one-seven decimal two kPa.",
+          "sc": "惰气压力 ___ kPa，含氧 ___ %。呼吸阀设定 +17.2 kPa。",
+          "tc": "惰氣壓力 ___ kPa，含氧 ___ %。壓力真空閥設定 +17.2 kPa。"
+        },
+        {
+          "en": "Please keep shore pressure below ___ bar; our IG riser alarm is at one-three decimal eight kPa.",
+          "sc": "请保持岸方压力低于 ___ bar；我船惰气立管高压报警为 13.8 kPa。",
+          "tc": "請保持岸方壓力低於 ___ bar；本船惰氣立管高壓警報為 13.8 kPa。"
+        },
+        {
+          "en": "Crude Oil Washing (COW) will be carried out during discharge in tanks ___. Pre-arrival COW checklist completed.",
+          "sc": "卸货期间将对 ___ 舱进行原油洗舱 (COW)。已完成到港前原油洗舱检查表。",
+          "tc": "卸貨期間將對 ___ 艙進行原油洗艙 (COW)。已完成抵港前原油洗艙檢查表。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title_en": "11. Discharging at Mailiao & Port Formalities",
+      "title_sc": "11. 麦寮卸货及港口手续",
+      "title_tc": "11. 麥寮卸貨及港口手續",
+      "notes": [],
+      "phrases": [
+        {
+          "en": "Mailiao Port Control, FPMC C LORD inbound, laden with ___ MT ___, ETA ___.",
+          "sc": "麦寮港控制，FPMC C LORD 进港，载有 ___ 公吨 ___，预计 ___ 到达。",
+          "tc": "麥寮港管制，FPMC C LORD 進港，載有 ___ 公噸 ___，預計 ___ 抵達。"
+        },
+        {
+          "en": "Discharge plan: one grade, ___ pumps, back pressure ___ bar at manifold.",
+          "sc": "卸货计划：单一货品，___ 台泵，总管背压 ___ bar。",
+          "tc": "卸貨計畫：單一貨品，___ 台泵，集油管背壓 ___ bar。"
+        },
+        {
+          "en": "Shore can receive maximum ___ m³/h. Please inform if you need to reduce.",
+          "sc": "岸方最大接收 ___ 立方米/小时。如需减速请通知。",
+          "tc": "岸方最大接收 ___ 立方公尺/小時。如需減速請通知。"
+        },
+        {
+          "en": "Stripping in progress. Tanks will be dry in about ___ hours.",
+          "sc": "正在扫舱，约 ___ 小时后舱内干净。",
+          "tc": "正在收艙，約 ___ 小時後艙內乾淨。"
+        },
+        {
+          "en": "Dry tank certificate / ROB (Remaining On Board) ___ m³.",
+          "sc": "干舱证书 / 船上剩余量 (ROB) ___ 立方米。",
+          "tc": "乾艙證明 / 船上殘留量 (ROB) ___ 立方公尺。"
+        },
+        {
+          "en": "Customs, Immigration and Quarantine (CIQ) officers are coming on board.",
+          "sc": "海关、边防（移民）、检疫官员即将登轮。",
+          "tc": "海關、移民署、檢疫官員即將登輪。"
+        },
+        {
+          "en": "Please prepare crew list, passports, seaman's books, crew effects declaration, ship's stores list.",
+          "sc": "请准备船员名单、护照、海员证、船员物品申报单、船用物料清单。",
+          "tc": "請準備船員名單、護照、船員手冊、船員物品申報單、船用物料清單。"
+        },
+        {
+          "en": "Port State Control inspection: Officer, these are the ship's certificates.",
+          "sc": "港口国监督检查：检查官，这些是船舶证书。",
+          "tc": "港口國管制檢查：檢查官，這些是船舶證書。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title_en": "12. Watchkeeping, Handover & Master's Orders",
+      "title_sc": "12. 值班、交接班与船长命令",
+      "title_tc": "12. 當值、交接班與船長命令",
+      "notes": [],
+      "phrases": [
+        {
+          "en": "Relieving the watch: position ___, course ___, speed ___, traffic ___.",
+          "sc": "交班：船位 ___，航向 ___，航速 ___，船舶动态 ___。",
+          "tc": "交班：船位 ___，航向 ___，航速 ___，船舶動態 ___。"
+        },
+        {
+          "en": "Master's night orders: call me if visibility less than 3 miles or CPA less than 1 mile.",
+          "sc": "船长夜航命令：能见度小于 3 海里或 CPA 小于 1 海里时叫我。",
+          "tc": "船長夜航命令：能見度小於 3 浬或 CPA 小於 1 浬時叫我。"
+        },
+        {
+          "en": "Captain, sorry to disturb you. There is a vessel crossing, CPA 0.5 mile.",
+          "sc": "船长，打扰了。有一艘船横越，CPA 0.5 海里。",
+          "tc": "船長，打擾了。有一艘船橫越，CPA 0.5 浬。"
+        },
+        {
+          "en": "Gyro and magnetic compass compared. Error ___.",
+          "sc": "已比对电罗经和磁罗经，误差 ___。",
+          "tc": "已比對電羅經和磁羅經，誤差 ___。"
+        },
+        {
+          "en": "Position fixed by GPS and radar range/bearing every 30 minutes.",
+          "sc": "每 30 分钟用 GPS 和雷达距离/方位定位一次。",
+          "tc": "每 30 分鐘用 GPS 和雷達距離/方位定位一次。"
+        },
+        {
+          "en": "Anchor watch: anchor bearings checked, no dragging.",
+          "sc": "锚泊值班：已核对锚位方位，无走锚。",
+          "tc": "錨泊當值：已核對錨位方位，無走錨。"
+        },
+        {
+          "en": "Visibility reduced – sound signal on, extra lookout posted, engine on standby.",
+          "sc": "能见度下降——已鸣放雾号，增派瞭望，主机备车。",
+          "tc": "能見度下降——已鳴放霧號，增派瞭望，主機備俥。"
+        },
+        {
+          "en": "Navigational warning: NAVTEX received, area ___ restricted for military exercise.",
+          "sc": "航行警告：收到 NAVTEX，___ 海域军事演习限航。",
+          "tc": "航行警告：收到 NAVTEX，___ 海域軍事演習限航。"
+        },
+        {
+          "en": "Weather forecast: wind north-east force six, sea state rough, swell two metres.",
+          "sc": "天气预报：东北风 6 级，海况大浪，涌浪 2 米。",
+          "tc": "天氣預報：東北風 6 級，海況大浪，湧浪 2 公尺。"
+        },
+        {
+          "en": "Shamal (strong north-westerly wind in the Gulf) expected. Check moorings / anchor.",
+          "sc": "预计有夏马风（海湾强西北风）。检查缆绳 / 锚泊情况。",
+          "tc": "預計有夏瑪風（海灣強西北風）。檢查纜繩 / 錨泊情況。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title_en": "13. Emergency & Distress Communication",
+      "title_sc": "13. 应急与遇险通信",
+      "title_tc": "13. 緊急與遇險通訊",
+      "notes": [
+        {
+          "en": "MAYDAY = distress (grave and imminent danger). PAN-PAN = urgency. SÉCURITÉ = safety. In real distress also use DSC and follow the Master's orders.",
+          "sc": "MAYDAY = 遇险（严重且紧迫的危险）。PAN-PAN = 紧急。SÉCURITÉ = 安全。真正遇险时同时使用 DSC，并听从船长指挥。",
+          "tc": "MAYDAY = 遇險（嚴重且緊迫的危險）。PAN-PAN = 緊急。SÉCURITÉ = 安全。真正遇險時同時使用 DSC，並聽從船長指揮。"
+        }
+      ],
+      "phrases": [
+        {
+          "en": "MAYDAY MAYDAY MAYDAY, this is FPMC C LORD ×3, call sign A8XJ5, MMSI 636014909.",
+          "sc": "MAYDAY ×3，这里是 FPMC C LORD ×3，呼号 A8XJ5，MMSI 636014909。",
+          "tc": "MAYDAY ×3，這裡是 FPMC C LORD ×3，呼號 A8XJ5，MMSI 636014909。"
+        },
+        {
+          "en": "Position ___. I am on fire / flooding / collision / aground. I require immediate assistance.",
+          "sc": "船位 ___。我船失火 / 进水 / 碰撞 / 搁浅。需要立即援助。",
+          "tc": "船位 ___。本船失火 / 進水 / 碰撞 / 擱淺。需要立即援助。"
+        },
+        {
+          "en": "PAN-PAN ×3, all stations, this is ___. Man overboard in position ___.",
+          "sc": "PAN-PAN ×3，各台，这里是 ___。在 ___ 有人落水。",
+          "tc": "PAN-PAN ×3，各台，這裡是 ___。在 ___ 有人落水。"
+        },
+        {
+          "en": "SÉCURITÉ ×3, all ships: drifting container in position ___.",
+          "sc": "SÉCURITÉ ×3，各船注意：___ 处有漂流集装箱。",
+          "tc": "SÉCURITÉ ×3，各船注意：___ 處有漂流貨櫃。"
+        },
+        {
+          "en": "Oil spill from my vessel, approximately ___ litres. Stopped. Clean-up in progress.",
+          "sc": "我船溢油约 ___ 升，已止漏，正在清除。",
+          "tc": "本船溢油約 ___ 公升，已止漏，正在清除。"
+        },
+        {
+          "en": "Man overboard starboard side! Throw lifebuoy! Hard to starboard!",
+          "sc": "右舷有人落水！抛救生圈！右满舵！",
+          "tc": "右舷有人落水！拋救生圈！右滿舵！"
+        },
+        {
+          "en": "Fire in engine room. Fire alarm sounded. All crew to muster station.",
+          "sc": "机舱失火，已拉火警，所有船员到集合站。",
+          "tc": "機艙失火，已拉火警，所有船員到集合站。"
+        },
+        {
+          "en": "Crew member injured, need medical assistance / medical evacuation.",
+          "sc": "船员受伤，需要医疗援助 / 医疗后送。",
+          "tc": "船員受傷，需要醫療援助 / 醫療後送。"
+        },
+        {
+          "en": "Received MAYDAY. I am proceeding to your position, ETA ___ minutes.",
+          "sc": "收到 MAYDAY，我船正驶往你处，预计 ___ 分钟到达。",
+          "tc": "收到 MAYDAY，本船正駛往你處，預計 ___ 分鐘到達。"
+        },
+        {
+          "en": "Seelonce mayday (silence – distress traffic in progress).",
+          "sc": "遇险通信进行中，请保持静默。",
+          "tc": "遇險通訊進行中，請保持靜默。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title_en": "14. Useful Vocabulary",
+      "title_sc": "14. 常用词汇",
+      "title_tc": "14. 常用詞彙",
+      "notes": [],
+      "phrases": [
+        {
+          "en": "Anchorage / berth / jetty / SBM (single buoy mooring)",
+          "sc": "锚地 / 泊位 / 栈桥码头 / 单点系泊",
+          "tc": "錨地 / 泊位 / 棧橋碼頭 / 單點繫泊"
+        },
+        {
+          "en": "Pilot boarding ground / pilot station",
+          "sc": "引航登轮点 / 引航站",
+          "tc": "引水登輪點 / 引水站"
+        },
+        {
+          "en": "Pilot ladder / accommodation ladder / combination ladder / embarkation ladder",
+          "sc": "引航梯 / 舷梯 / 组合梯 / 登乘梯",
+          "tc": "引水梯 / 舷梯 / 組合梯 / 登乘梯"
+        },
+        {
+          "en": "Freeboard / draft / trim / list / heel",
+          "sc": "干舷 / 吃水 / 纵倾 / 横倾 / 横倾（动态）",
+          "tc": "乾舷 / 吃水 / 縱傾 / 橫傾 / 傾側"
+        },
+        {
+          "en": "Lee side / weather side",
+          "sc": "下风舷 / 上风舷",
+          "tc": "下風舷 / 上風舷"
+        },
+        {
+          "en": "Traffic Separation Scheme (TSS) / Deep Water Route (DWR) / precautionary area",
+          "sc": "分道通航制 / 深水航路 / 警戒区",
+          "tc": "分道航行制 / 深水航路 / 警戒區"
+        },
+        {
+          "en": "Under keel clearance (UKC) / squat",
+          "sc": "富余水深 / 船体下沉",
+          "tc": "龍骨下餘裕水深 / 艉沉"
+        },
+        {
+          "en": "Notice of Readiness (NOR) / laytime / demurrage",
+          "sc": "准备就绪通知书 / 装卸时间 / 滞期费",
+          "tc": "準備就緒通知書 / 裝卸時間 / 延滯費"
+        },
+        {
+          "en": "Bill of Lading (B/L) / Letter of Protest / Statement of Facts (SOF)",
+          "sc": "提单 / 抗议书 / 事实记录",
+          "tc": "載貨證券（提單）/ 抗議書 / 事實記錄"
+        },
+        {
+          "en": "Ullage / sounding / innage / interface",
+          "sc": "空距 / 测深 / 实高 / 油水界面",
+          "tc": "空距 / 測深 / 實高 / 油水界面"
+        },
+        {
+          "en": "Manifold / loading arm / cargo hose / reducer",
+          "sc": "总管 / 装卸臂 / 货油软管 / 变径接头",
+          "tc": "集油管 / 裝卸臂 / 貨油管 / 異徑接頭"
+        },
+        {
+          "en": "Slop tank / ballast tank / cargo tank / void space",
+          "sc": "污油水舱 / 压载舱 / 货舱 / 空舱",
+          "tc": "污油水艙 / 壓艙水艙 / 貨艙 / 空艙"
+        },
+        {
+          "en": "Topping off / stripping / line displacement",
+          "sc": "平舱 / 扫舱 / 管线置换",
+          "tc": "平艙 / 收艙 / 管線置換"
+        },
+        {
+          "en": "Bunker Delivery Note (BDN) / Mass Flow Meter (MFM) / sample",
+          "sc": "燃油交付单 / 质量流量计 / 样品",
+          "tc": "燃油交付單 / 質量流量計 / 樣品"
+        },
+        {
+          "en": "Fender / heaving line / mooring line / bitts / fairlead / winch / windlass",
+          "sc": "护舷 / 撇缆 / 系泊缆 / 缆桩 / 导缆孔 / 绞缆机 / 起锚机",
+          "tc": "碰墊 / 撇纜 / 繫泊纜 / 纜樁 / 導纜孔 / 絞纜機 / 起錨機"
+        },
+        {
+          "en": "Shackle (of anchor cable, 27.5 m / 15 fathoms)",
+          "sc": "节（锚链，27.5 米 / 15 拓）",
+          "tc": "節（錨鏈，27.5 公尺 / 15 噚）"
+        },
+        {
+          "en": "Tug / pilot boat / launch / bunker barge / supply boat",
+          "sc": "拖轮 / 引航艇 / 交通艇 / 加油驳 / 供应船",
+          "tc": "拖船 / 引水艇 / 交通艇 / 加油船 / 補給船"
+        },
+        {
+          "en": "Chief Officer / Second Officer / Third Officer / Able Seaman (AB) / Bosun",
+          "sc": "大副 / 二副 / 三副 / 一水 / 水手长",
+          "tc": "大副 / 二副 / 三副 / 幹練水手（AB）/ 水手長"
+        }
+      ]
+    }
+  ]
+}
