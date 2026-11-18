@@ -6,13 +6,21 @@ on:
     paths: ["MaritimeEnglish/**", ".github/workflows/maritime-english-ios.yml"]
   workflow_dispatch:
 
+concurrency:
+  group: maritime-ios-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   preflight:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Actions runner OK"
   build:
-    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-14, macos-15, macos-latest, macos-26]
+    runs-on: ${{ matrix.os }}
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
@@ -24,12 +32,12 @@ jobs:
       - name: Upload ipa
         uses: actions/upload-artifact@v4
         with:
-          name: MaritimeEnglish-unsigned-ipa
+          name: MaritimeEnglish-unsigned-ipa-${{ matrix.os }}
           path: MaritimeEnglish/build/MaritimeEnglish-unsigned.ipa
           if-no-files-found: error
       - name: Upload logs
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: build-logs
+          name: build-logs-${{ matrix.os }}
           path: MaritimeEnglish/build/*.log
