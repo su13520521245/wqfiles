@@ -7,6 +7,10 @@ on:
   workflow_dispatch:
 
 jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Actions runner OK"
   build:
     runs-on: macos-15
     timeout-minutes: 40
