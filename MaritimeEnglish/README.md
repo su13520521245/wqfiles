@@ -10,7 +10,7 @@ SwiftUI iOS App（iOS 17+、iPhone、只支援直式、Swift 6、無第三方套
 - AVAudioSession `.playback`：靜音鍵開著時也能發音
 
 ## 建置
-- **雲端（GitHub Actions）**：推到 `claude/maritime-english-ios-app-q0yq4w` 分支會自動在 macOS 主機上建置，並產出 `MaritimeEnglish-unsigned-ipa` artifact（未簽名）。
+- **雲端（Codemagic）**：repo 根目錄的 `codemagic.yaml`，推到 `claude/maritime-english-ios-app-q0yq4w` 分支會自動在 Mac mini M2 上建置，並在 Artifacts 產出 `MaritimeEnglish-unsigned.ipa`（未簽名）。
 - **Mac 本機（簽名）**：
   1. `project.yml` 裡的 `PRODUCT_BUNDLE_IDENTIFIER`（目前是 `com.yourname.maritimeenglish`）改成您自己的，並填入 `DEVELOPMENT_TEAM`
   2. `ExportOptions.plist` 填入 `teamID`；`method` 要用 development 就填 `debugging`，要用 ad-hoc 就填 `release-testing`
