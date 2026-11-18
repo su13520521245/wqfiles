@@ -16,6 +16,8 @@ workflows:
         script: |
           cd MaritimeEnglish
           ./build_ipa.sh unsigned
+          cd build && zip -q MaritimeEnglish-unsigned-ipa.zip MaritimeEnglish-unsigned.ipa
     artifacts:
       - MaritimeEnglish/build/MaritimeEnglish-unsigned.ipa
+      - MaritimeEnglish/build/MaritimeEnglish-unsigned-ipa.zip
       - MaritimeEnglish/build/*.log
